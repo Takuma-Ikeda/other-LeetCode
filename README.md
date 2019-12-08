@@ -5,7 +5,7 @@
 1. 
     - [x] https://leetcode.com/problems/two-sum/
 1. 
-    - [ ] https://leetcode.com
+    - [x] https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 1. 
     - [ ] https://leetcode.com
 1. 
