@@ -1,5 +1,8 @@
 # LeetCode
 
+- Problems 選びの参考サイト
+    - https://1kohei1.com/leetcode/
+
 ## Problems
 
 1. 
@@ -203,12 +206,29 @@
 1. 
     - [ ] https://leetcode.com
 
-## テスト環境
+## Python 実行環境
+
+### pipenv インストール
 
 ```sh
 # Mac
 brew install pipenv
-
 pipenv install
+```
+
+### 起動・終了
+
+```sh
+# 起動
 pipenv shell
+
+# 終了:  もしくは Ctrl + D
+exit
+```
+
+#### test ファイルの実行
+
+```sh
+cd problems/test
+python 1_Two_Sum.py
 ```
