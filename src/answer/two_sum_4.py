@@ -33,21 +33,6 @@ class Solution(object):
         # 左右の node で再帰実行
         return self._findTarget(node.left, nodes, k) or self._findTarget(node.right, nodes, k)
 
-
-n2 = TreeNode(2, None, None)
-n4 = TreeNode(4, None, None)
-n7 = TreeNode(7, None, None)
-n3 = TreeNode(3, n2, n4)
-n6 = TreeNode(6, None, n7)
-n5 = TreeNode(5, n3, n6)
-
-s = Solution()
-
-print(s.findTarget(n5, 9))
-print(s.findTarget(n5, 28))
-
-# BST: Binary Search Tree (二分探索木)
-
 '''
 https://qiita.com/menon/items/657f67bb2817e25b2222
 https://python.ms/binary-search-tree/

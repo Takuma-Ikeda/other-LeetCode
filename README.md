@@ -10,7 +10,7 @@
 1. 
     - [x] https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 1. 
-    - [ ] https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
+    - [x] https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
 1. 
     - [ ] https://leetcode.com
 1. 
@@ -229,6 +229,6 @@ exit
 #### test ファイルの実行
 
 ```sh
-cd problems/test
-python 1_Two_Sum.py
+cd src
+python test_two_sum.py
 ```

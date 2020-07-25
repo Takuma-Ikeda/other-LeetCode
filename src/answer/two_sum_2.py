@@ -19,11 +19,3 @@ class Solution:
                 tail -= 1
             else:
                 return [head, tail]
-
-
-s = Solution()
-
-# result = s.twoSum([2, 7, 11, 15], 9)
-result = s.twoSum([1, 2, 3, 4, 4, 9, 56, 90], 8)
-
-print(result)
