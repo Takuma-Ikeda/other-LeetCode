@@ -6,7 +6,7 @@ class TreeNode:
 
 
 class Solution(object):
-    def findTarget(self, root, k):
+    def findTarget(self, root, k) -> bool:
         """
         :type root: TreeNode
         :type k: int
@@ -17,7 +17,7 @@ class Solution(object):
 
         return self._findTarget(root, set(), k)
 
-    def _findTarget(self, node, nodes, k):
+    def _findTarget(self, node, nodes, k) -> bool:
         if not node:
             return False
 
@@ -32,6 +32,7 @@ class Solution(object):
 
         # 左右の node で再帰実行
         return self._findTarget(node.left, nodes, k) or self._findTarget(node.right, nodes, k)
+
 
 '''
 https://qiita.com/menon/items/657f67bb2817e25b2222
