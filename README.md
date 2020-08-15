@@ -1,18 +1,24 @@
 # LeetCode
 
-- Problems 選びの参考サイト
-    - https://1kohei1.com/leetcode/
+- Problems: Easy
+    - https://leetcode.com/problemset/all/?difficulty=Easy
+- Problems 参考サイト
+    - https://1kohei1.com/problems/
 
-## Problems
+## leetcode
 
 1. 
     - [x] https://leetcode.com/problems/two-sum/
+    - src/answer/two_sum.py
 1. 
     - [x] https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+    - src/answer/two_sum_2.py
 1. 
     - [x] https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
+    - src/answer/two_sum_4.py
 1. 
-    - [ ] https://leetcode.com
+    - [x] https://leetcode.com/problems/running-sum-of-1d-array/
+    - src/answer/running_sum_of_1d_array.py
 1. 
     - [ ] https://leetcode.com
 1. 

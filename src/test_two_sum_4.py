@@ -5,6 +5,7 @@ from answer import two_sum_4
 class TestSolution(unittest.TestCase):
 
     def setUp(self):
+        self.s = two_sum_4.Solution()
         n2 = two_sum_4.TreeNode(2, None, None)
         n4 = two_sum_4.TreeNode(4, None, None)
         n7 = two_sum_4.TreeNode(7, None, None)
@@ -16,13 +17,11 @@ class TestSolution(unittest.TestCase):
         self.k2 = 28
 
     def test_solution1(self):
-        s = two_sum_4.Solution()
-        result = s.findTarget(self.root, self.k1)
+        result = self.s.findTarget(self.root, self.k1)
         self.assertTrue(result)
 
     def test_solution2(self):
-        s = two_sum_4.Solution()
-        result = s.findTarget(self.root, self.k2)
+        result = self.s.findTarget(self.root, self.k2)
         self.assertFalse(result)
 
 
