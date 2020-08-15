@@ -5,14 +5,23 @@ from answer import two_sum_2
 class TestSolution(unittest.TestCase):
 
     def setUp(self):
-        self.s = two_sum_2.Solution()
-        self.numbers = [2, 7, 11, 15]
-        self.target = 9
-        self.answer = [1, 2]
+        self.numbers = [
+            [2, 7, 11, 15]
+        ]
+        self.targets = [
+            9
+        ]
+        self.answers = [
+            [1, 2]
+        ]
 
-    def test_solution1(self):
-        result = self.s.twoSum(self.numbers, self.target)
-        self.assertEqual(self.answer, result)
+    def solution(self, i):
+        s = two_sum_2.Solution()
+        result = s.twoSum(self.numbers[i], self.targets[i])
+        self.assertEqual(self.answers[i], result)
+
+    def test_solution(self):
+        self.solution(0)
 
 
 if __name__ == "__main__":
