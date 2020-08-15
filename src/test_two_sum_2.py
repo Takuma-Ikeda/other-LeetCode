@@ -1,5 +1,5 @@
 import unittest
-from answer import two_sum_2
+from answer.two_sum_2 import Solution
 
 
 class TestSolution(unittest.TestCase):
@@ -16,7 +16,7 @@ class TestSolution(unittest.TestCase):
         ]
 
     def solution(self, i):
-        s = two_sum_2.Solution()
+        s = Solution()
         result = s.twoSum(self.numbers[i], self.targets[i])
         self.assertEqual(self.answers[i], result)
 

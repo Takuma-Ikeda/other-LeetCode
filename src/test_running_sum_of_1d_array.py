@@ -1,5 +1,5 @@
 import unittest
-from answer import running_sum_of_1d_array
+from answer.running_sum_of_1d_array import Solution
 
 
 class TestSolution(unittest.TestCase):
@@ -17,7 +17,7 @@ class TestSolution(unittest.TestCase):
         ]
 
     def solution(self, i):
-        s = running_sum_of_1d_array.Solution()
+        s = Solution()
         result = s.runningSum(self.nums[i])
         self.assertEqual(self.answers[i], result)
 

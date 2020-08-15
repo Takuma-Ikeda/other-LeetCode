@@ -1,23 +1,23 @@
 import unittest
-from answer import two_sum_4
+from answer.two_sum_4 import Solution, TreeNode
 
 
 class TestSolution(unittest.TestCase):
 
     def setUp(self):
-        n2 = two_sum_4.TreeNode(2, None, None)
-        n4 = two_sum_4.TreeNode(4, None, None)
-        n7 = two_sum_4.TreeNode(7, None, None)
-        n3 = two_sum_4.TreeNode(3, n2, n4)
-        n6 = two_sum_4.TreeNode(6, None, n7)
-        self.root = two_sum_4.TreeNode(5, n3, n6)
+        n2 = TreeNode(2, None, None)
+        n4 = TreeNode(4, None, None)
+        n7 = TreeNode(7, None, None)
+        n3 = TreeNode(3, n2, n4)
+        n6 = TreeNode(6, None, n7)
+        self.root = TreeNode(5, n3, n6)
         self.ks = [
             9,
             28
         ]
 
     def solution(self, i):
-        s = two_sum_4.Solution()
+        s = Solution()
         return s.findTarget(self.root, self.ks[i])
 
     def test_solution(self):
