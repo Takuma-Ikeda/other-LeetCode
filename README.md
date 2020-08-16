@@ -24,7 +24,8 @@
     - [x] https://leetcode.com/problems/running-sum-of-1d-array/
     - src/answer/running_sum_of_1d_array.py
 1. 
-    - [ ] https://leetcode.com
+    - [x] https://leetcode.com/problems/shuffle-the-array/submissions/
+    - src/answer/shuffle_the_array.py
 1. 
     - [ ] https://leetcode.com
 1. 
@@ -229,10 +230,10 @@ pipenv install
 ### 起動・終了
 
 ```sh
-# Python 環境の起動
+# 起動
 pipenv shell
 
-# 終了:  もしくは Ctrl + D
+# 終了: もしくは Ctrl + D
 exit
 ```
 
