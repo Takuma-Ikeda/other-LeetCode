@@ -21,7 +21,7 @@ class TestSolution(unittest.TestCase):
         result = s.runningSum(self.nums[i])
         self.assertEqual(self.answers[i], result)
 
-    def test_solution(self):
+    def test_solution0(self):
         self.solution(0)
 
     def test_solution1(self):

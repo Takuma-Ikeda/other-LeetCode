@@ -20,7 +20,7 @@ class TestSolution(unittest.TestCase):
         s = Solution()
         return s.findTarget(self.root, self.ks[i])
 
-    def test_solution(self):
+    def test_solution0(self):
         result = self.solution(0)
         self.assertTrue(result)
 

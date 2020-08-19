@@ -20,7 +20,7 @@ class TestSolution(unittest.TestCase):
         result = s.twoSum(self.numbers[i], self.targets[i])
         self.assertEqual(self.answers[i], result)
 
-    def test_solution(self):
+    def test_solution0(self):
         self.solution(0)
 
 
