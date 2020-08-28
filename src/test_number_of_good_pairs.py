@@ -1,27 +1,34 @@
 import unittest
-from answer.two_sum import Solution
+from answer.number_of_good_pairs import Solution
 
 
 class TestSolution(unittest.TestCase):
 
     def setUp(self):
         self.nums = [
-            [2, 7, 11, 15]
-        ]
-        self.targets = [
-            9
+            [1, 2, 3, 1, 1, 3],
+            [1, 1, 1, 1],
+            [1, 2, 3]
         ]
         self.answers = [
-            [0, 1]
+            4,
+            6,
+            0
         ]
 
     def solution(self, i):
         s = Solution()
-        result = s.twoSum(self.nums[i], self.targets[i])
+        result = s.numIdenticalPairs(self.nums[i])
         self.assertEqual(self.answers[i], result)
 
     def test_solution0(self):
         self.solution(0)
+
+    def test_solution1(self):
+        self.solution(1)
+
+    def test_solution2(self):
+        self.solution(2)
 
 
 if __name__ == "__main__":

@@ -27,9 +27,11 @@
     - [x] https://leetcode.com/problems/shuffle-the-array/submissions/
     - src/answer/shuffle_the_array.py
 1. 
-    - [ ] https://leetcode.com
+    - [x] https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
+    - src/answer/kids_With_the_greatest_number_of_candies.py
 1. 
-    - [ ] https://leetcode.com
+    - [x] https://leetcode.com/problems/number-of-good-pairs/
+    - src/answer/number_of_good_pairs.py
 1. 
     - [ ] https://leetcode.com
 1. 
