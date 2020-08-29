@@ -33,7 +33,8 @@
     - [x] https://leetcode.com/problems/number-of-good-pairs/
     - src/answer/number_of_good_pairs.py
 1. 
-    - [ ] https://leetcode.com
+    - [x] https://leetcode.com/problems/defanging-an-ip-address/
+    - src/answer/defanging_an_ip_address.py
 1. 
     - [ ] https://leetcode.com
 1. 
