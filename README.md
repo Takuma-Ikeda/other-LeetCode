@@ -36,7 +36,8 @@
     - [x] https://leetcode.com/problems/defanging-an-ip-address/
     - src/answer/defanging_an_ip_address.py
 1. 
-    - [ ] https://leetcode.com
+    - [x] https://leetcode.com/problems/jewels-and-stones/
+    - src/answer/jewels_and_stones.py
 1. 
     - [ ] https://leetcode.com
 1. 
