@@ -27,7 +27,7 @@ def shuffle(self, nums: List[int], n: int) -> List[int]:
         return res
 '''
 
-# zip関数について
+# zip 関数について
 
 '''
 names = ['taro', 'hanako', ‘'jiro']

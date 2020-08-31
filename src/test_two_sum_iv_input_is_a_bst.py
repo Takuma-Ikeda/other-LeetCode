@@ -1,5 +1,5 @@
 import unittest
-from answer.two_sum_4 import Solution, TreeNode
+from answer.two_sum_iv_input_is_a_bst import Solution, TreeNode
 
 
 class TestSolution(unittest.TestCase):

@@ -1,5 +1,5 @@
 import unittest
-from answer.two_sum_2 import Solution
+from answer.two_sum_ii_input_array_is_sorted import Solution
 
 
 class TestSolution(unittest.TestCase):

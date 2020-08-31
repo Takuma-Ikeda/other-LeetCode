@@ -24,7 +24,7 @@
     - [x] https://leetcode.com/problems/running-sum-of-1d-array/
     - src/answer/running_sum_of_1d_array.py
 1. 
-    - [x] https://leetcode.com/problems/shuffle-the-array/submissions/
+    - [x] https://leetcode.com/problems/shuffle-the-array/
     - src/answer/shuffle_the_array.py
 1. 
     - [x] https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
@@ -39,7 +39,8 @@
     - [x] https://leetcode.com/problems/jewels-and-stones/
     - src/answer/jewels_and_stones.py
 1. 
-    - [ ] https://leetcode.com
+    - [x] https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
+    - src/answer/number_of_steps_to_reduce_a_number_to_zero.py
 1. 
     - [ ] https://leetcode.com
 1. 
