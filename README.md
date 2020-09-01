@@ -42,7 +42,8 @@
     - [x] https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
     - src/answer/number_of_steps_to_reduce_a_number_to_zero.py
 1. 
-    - [ ] https://leetcode.com
+    - [x] https://leetcode.com/problems/shuffle-string/
+    - src/answer/shuffle_string.py
 1. 
     - [ ] https://leetcode.com
 1. 
