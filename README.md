@@ -45,7 +45,8 @@
     - [x] https://leetcode.com/problems/shuffle-string/
     - src/answer/shuffle_string.py
 1. 
-    - [ ] https://leetcode.com
+    - [x] https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
+    - https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 1. 
     - [ ] https://leetcode.com
 1. 
