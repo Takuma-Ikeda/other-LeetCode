@@ -20,7 +20,6 @@ class TestSolution(unittest.TestCase):
         s = Solution()
         result = s.smallerNumbersThanCurrent(self.nums[i])
         self.assertEqual(self.answers[i], result)
-
     def test_solution0(self):
         self.solution(0)
 

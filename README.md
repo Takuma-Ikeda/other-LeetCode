@@ -46,9 +46,10 @@
     - src/answer/shuffle_string.py
 1. 
     - [x] https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
-    - https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
+    - src/answer/how_many_numbers_are_smaller_than_the_current_number.py
 1. 
-    - [ ] https://leetcode.com
+    - [x] https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
+    - src/answer/subtract_the_product_and_sum_of_digits_of_an_integer.py
 1. 
     - [ ] https://leetcode.com
 1. 

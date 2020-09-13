@@ -27,9 +27,9 @@ class Solution:
         
         # 昇順にソートする
         sorted_list = sorted(nums)
-        print(sorted_list)
     
         for i, n in enumerate(sorted_list):
+            # キー not in 辞書型 → キーがなかったら True / キーがあったら False
             if n not in dic:
                 dic[n] = i
         
