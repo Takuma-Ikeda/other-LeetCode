@@ -6,6 +6,7 @@ class Solution:
 
     def subtractProductAndSum(self, n: int) -> int:
 
+        # l = map(int, str(n))
         l = [int(digit) for digit in list(str(n))]
 
         # Python3.8 以降の場合
@@ -13,9 +14,9 @@ class Solution:
 
         '''
         高階関数 reduce
-            第 1 引数: function(必須)
-            第 2 引数: iterable(必須)
-            第 3 引数: initializer(オプション)
+            第 1 引数: function (必須)
+            第 2 引数: iterable (必須)
+            第 3 引数: initializer (オプション)
             
         operator.mul (multiply)
             reduce の第 2 引数で渡したリストから要素を取り出して、互いの要素を掛け算させる

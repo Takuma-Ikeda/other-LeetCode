@@ -51,7 +51,8 @@
     - [x] https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
     - src/answer/subtract_the_product_and_sum_of_digits_of_an_integer.py
 1. 
-    - [ ] https://leetcode.com
+    - [x] https://leetcode.com/problems/decompress-run-length-encoded-list/
+    - src/answer/decompress_run_length_encoded_list.py
 1. 
     - [ ] https://leetcode.com
 1. 

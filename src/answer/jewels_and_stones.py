@@ -23,6 +23,7 @@ class Solution:
 from collections import defaultdict
 from typing import DefaultDict
 
+
 class Solution:
     def numJewelsInStones(self, J: str, S: str) -> int:
 
@@ -49,6 +50,7 @@ class Solution:
 
 '''
 from collections import Counter
+
 
 class Solution:
     def numJewelsInStones(self, J: str, S: str) -> int:
