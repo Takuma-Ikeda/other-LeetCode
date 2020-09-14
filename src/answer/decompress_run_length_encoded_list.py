@@ -32,11 +32,11 @@ class Solution:
         
         # range ※ 引数 3 つバージョン
         # 第一引数: start
-        # 第荷引数: stop
+        # 題ニ引数: stop
         # 第三引数: step (オプション) 数字を刻み方を指定できる
         
         for i in range(0, l, 2):
-            # 値 * [繰り返し回数]
+            # 繰り返し回数 * [値]
             result.extend(nums[i] * [nums[i + 1]])
             
         return result
