@@ -54,7 +54,8 @@
     - [x] https://leetcode.com/problems/decompress-run-length-encoded-list/
     - src/answer/decompress_run_length_encoded_list.py
 1. 
-    - [ ] https://leetcode.com
+    - [x] https://leetcode.com/problems/create-target-array-in-the-given-order/
+    - src/answer/create_target_array_in_the_given_order.py
 1. 
     - [ ] https://leetcode.com
 1. 
