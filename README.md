@@ -57,7 +57,8 @@
     - [x] https://leetcode.com/problems/create-target-array-in-the-given-order/
     - src/answer/create_target_array_in_the_given_order.py
 1. 
-    - [ ] https://leetcode.com
+    - [x] https://leetcode.com/problems/xor-operation-in-an-array/
+    - src/answer/xor_operation_in_an_array.py
 1. 
     - [ ] https://leetcode.com
 1. 
