@@ -1,5 +1,9 @@
 # LeetCode
 
+## ローカル実行環境
+
+- Python v3.7.7
+
 ## 参考リンク
 
 - Problems: Easy
@@ -76,9 +80,9 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/xor_operation_in_an_array.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_xor_operation_in_an_array.py
 1. 
-    - [ ] https://leetcode.com
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+    - [x] https://leetcode.com/problems/build-array-from-permutation/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/build_array_from_permutation.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_build_array_from_permutation.py
 1. 
     - [ ] https://leetcode.com
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
@@ -156,5 +160,7 @@ exit
 
 ```sh
 cd src
-python test_two_sum.py
+
+# python test_two_sum.py など
+python ファイル名
 ```
