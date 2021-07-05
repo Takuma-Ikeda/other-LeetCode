@@ -13,220 +13,124 @@
 
 1. 
     - [x] https://leetcode.com/problems/two-sum/
-    - src/answer/two_sum.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/two_sum.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_two_sum.py
 1. 
     - [x] https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
-    - src/answer/two_sum_2.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/two_sum_2.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_two_sum_2.py
 1. 
     - [x] https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
-    - src/answer/two_sum_4.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/two_sum_4.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_two_sum_4.py
 1. 
     - [x] https://leetcode.com/problems/running-sum-of-1d-array/
-    - src/answer/running_sum_of_1d_array.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/running_sum_of_1d_array.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_running_sum_of_1d_array.py
 1. 
     - [x] https://leetcode.com/problems/shuffle-the-array/
-    - src/answer/shuffle_the_array.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/shuffle_the_array.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_shuffle_the_array.py
 1. 
     - [x] https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
-    - src/answer/kids_With_the_greatest_number_of_candies.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/kids_With_the_greatest_number_of_candies.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_kids_With_the_greatest_number_of_candies.py
 1. 
     - [x] https://leetcode.com/problems/number-of-good-pairs/
-    - src/answer/number_of_good_pairs.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/number_of_good_pairs.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_number_of_good_pairs.py
 1. 
     - [x] https://leetcode.com/problems/defanging-an-ip-address/
-    - src/answer/defanging_an_ip_address.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/defanging_an_ip_address.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_defanging_an_ip_address.py
 1. 
     - [x] https://leetcode.com/problems/jewels-and-stones/
-    - src/answer/jewels_and_stones.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/jewels_and_stones.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_jewels_and_stones.py
 1. 
     - [x] https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
-    - src/answer/number_of_steps_to_reduce_a_number_to_zero.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/number_of_steps_to_reduce_a_number_to_zero.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_number_of_steps_to_reduce_a_number_to_zero.py
 1. 
     - [x] https://leetcode.com/problems/shuffle-string/
-    - src/answer/shuffle_string.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/shuffle_string.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_shuffle_string.py
 1. 
     - [x] https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
-    - src/answer/how_many_numbers_are_smaller_than_the_current_number.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/how_many_numbers_are_smaller_than_the_current_number.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_how_many_numbers_are_smaller_than_the_current_number.py
 1. 
     - [x] https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
-    - src/answer/subtract_the_product_and_sum_of_digits_of_an_integer.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/subtract_the_product_and_sum_of_digits_of_an_integer.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_subtract_the_product_and_sum_of_digits_of_an_integer.py
 1. 
     - [x] https://leetcode.com/problems/decompress-run-length-encoded-list/
-    - src/answer/decompress_run_length_encoded_list.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/decompress_run_length_encoded_list.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_decompress_run_length_encoded_list.py
 1. 
     - [x] https://leetcode.com/problems/create-target-array-in-the-given-order/
-    - src/answer/create_target_array_in_the_given_order.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/create_target_array_in_the_given_order.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_create_target_array_in_the_given_order.py
 1. 
     - [x] https://leetcode.com/problems/xor-operation-in-an-array/
-    - src/answer/xor_operation_in_an_array.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/xor_operation_in_an_array.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_xor_operation_in_an_array.py
 1. 
     - [ ] https://leetcode.com
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
 1. 
     - [ ] https://leetcode.com
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
 1. 
     - [ ] https://leetcode.com
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
 1. 
     - [ ] https://leetcode.com
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
 1. 
     - [ ] https://leetcode.com
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
 1. 
     - [ ] https://leetcode.com
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
 1. 
     - [ ] https://leetcode.com
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
 1. 
     - [ ] https://leetcode.com
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
 1. 
     - [ ] https://leetcode.com
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
 1. 
     - [ ] https://leetcode.com
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
 1. 
     - [ ] https://leetcode.com
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
 1. 
     - [ ] https://leetcode.com
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
 1. 
     - [ ] https://leetcode.com
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
 1. 
     - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
-1. 
-    - [ ] https://leetcode.com
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
 
 ## Python 実行環境
 
