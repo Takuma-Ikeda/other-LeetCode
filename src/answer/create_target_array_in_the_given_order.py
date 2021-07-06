@@ -21,7 +21,7 @@ class Solution:
 '''
 class Solution:
     def createTargetArray(self, nums: List[int], index: List[int]) -> List[int]:
-        target =[]
+        target = []
         for i in range(len(nums)):
             # 末尾の index に要素追加する場合
             if index[i] == len(target) :

@@ -84,9 +84,9 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/build_array_from_permutation.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_build_array_from_permutation.py
 1. 
-    - [ ] https://leetcode.com
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+    - [x] https://leetcode.com/problems/richest-customer-wealth/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/richest_customer_wealth.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_richest_customer_wealth.py
 1. 
     - [ ] https://leetcode.com
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
