@@ -88,9 +88,9 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/richest_customer_wealth.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_richest_customer_wealth.py
 1. 
-    - [ ] https://leetcode.com
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+    - [x] https://leetcode.com/problems/design-parking-system/ 
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/design_parking_system.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_design_parking_system.py
 1. 
     - [ ] https://leetcode.com
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
@@ -144,6 +144,7 @@
 # Mac の場合
 brew install pipenv
 pipenv install
+pipenv --python 3.7.7  
 ```
 
 ### 起動・終了
