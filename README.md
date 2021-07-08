@@ -92,9 +92,9 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/design_parking_system.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_design_parking_system.py
 1. 
-    - [ ] https://leetcode.com
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+    - [x] https://leetcode.com/problems/decode-xored-array/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/decode_xored_array.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_decode_xored_array.py
 1. 
     - [ ] https://leetcode.com
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py

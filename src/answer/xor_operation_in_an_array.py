@@ -3,9 +3,10 @@ class Solution:
     def xorOperation(self, n: int, start: int) -> int:
 
         '''
-        XOR ビット演算とは
-        二進数の XOR ビット演算は ^ で表現できる
-        ビットがお互いに違ったら 1 (true) / 同じだったら 0 (false) になる
+        https://wa3.i-3-i.info/word11658.html
+        XOR とは排他的論理和のこと。ビット演算の一種である
+        Python で二進数の XOR ビット演算は ^ (サーカムフレックス) で処理できる
+        組み合わせるビットがお互いに違ったら 1 (true) / 同じだったら 0 (false) に変化する
 
         例 1 :
         十進数 [0, 2, 4, 6, 8] -> 二進数 [0, 10, 100, 110, 1000]
@@ -36,6 +37,7 @@ class Solution:
             if i == 0:
                 answer = n
             else:
+                # ^ は XOR のこと
                 answer ^= n
 
         return answer
