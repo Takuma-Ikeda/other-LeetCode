@@ -11,6 +11,7 @@ class Solution:
     1 XOR 0 → 二進数計算「01 XOR 00 = 01」 → 十進数で 1 のこと
     0 XOR 2 → 二進数計算「00 XOR 10 = 10」 → 十進数で 2 のこと
     2 XOR 1 → 二進数計算「10 XOR 01 = 11」 → 十進数で 3 のこと
+    → encorded [1, 2, 3]
 
     encoded [1, 2, 3] first 1
         → first は result[0]
@@ -30,6 +31,7 @@ class Solution:
     2 XOR 0 → 二進数計算「010 XOR 000 = 010」 → 十進数で 2 のこと
     0 XOR 7 → 二進数計算「000 XOR 111 = 111」 → 十進数で 7 のこと
     7 XOR 4 → 二進数計算「111 XOR 100 = 011」 → 十進数で 3 のこと
+    → encorded [6, 2, 7, 3]
 
     encoded [6, 2, 7, 3] first 4
         → first は result[0]

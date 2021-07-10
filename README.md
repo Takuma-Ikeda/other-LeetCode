@@ -96,9 +96,9 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/decode_xored_array.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_decode_xored_array.py
 1. 
-    - [ ] https://leetcode.com
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+    - [x] https://leetcode.com/problems/goal-parser-interpretation/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/goal_parser_interpretation.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_goal_parser_interpretation.py
 1. 
     - [ ] https://leetcode.com
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
