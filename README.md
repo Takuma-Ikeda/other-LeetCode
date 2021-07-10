@@ -100,9 +100,9 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/goal_parser_interpretation.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_goal_parser_interpretation.py
 1. 
-    - [ ] https://leetcode.com
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+    - [x] https://leetcode.com/problems/count-items-matching-a-rule/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/count_items_matching_a_rule.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_count_items_matching_a_rule.py
 1. 
     - [ ] https://leetcode.com
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
