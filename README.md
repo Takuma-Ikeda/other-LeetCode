@@ -104,9 +104,9 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/count_items_matching_a_rule.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_count_items_matching_a_rule.py
 1. 
-    - [ ] https://leetcode.com
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+    - [x] https://leetcode.com/problems/split-a-string-in-balanced-strings/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/split_a_string_in_balanced_strings.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_split_a_string_in_balanced_strings.py
 1. 
     - [ ] https://leetcode.com
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
