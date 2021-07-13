@@ -24,26 +24,21 @@ class Solution:
 '''
 class Solution:
     def kidsWithCandies(self, candies: List[int], extraCandies: int) -> List[bool]:
-        
-        result, maximum = [], max( candies )
+        result, maximum = [], max(candies)
         
         for candy in candies:
-            
             if (candy + extraCandies) >= maximum:
-                result.append( True )
-            
+                result.append(True)
             else:
-                result.append( False )
-                
+                result.append(False)
         return result
 '''
 
 '''
 class Solution:
     def kidsWithCandies(self, candies: List[int], extraCandies: int) -> List[bool]:
-        
-        maximum = max( candies )
+        maximum = max(candies)
         
         # リスト型の内包表記
-        return [ (candy + extraCandies) >= maximum for candy in candies ]
+        return [(candy + extraCandies) >= maximum for candy in candies]
 '''
