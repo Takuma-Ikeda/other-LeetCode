@@ -108,9 +108,9 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/split_a_string_in_balanced_strings.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_split_a_string_in_balanced_strings.py
 1. 
-    - [ ] https://leetcode.com
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+    - [x] https://leetcode.com/problems/concatenation-of-array/ 
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/concatenation_of_array.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_concatenation_of_array.py
 1. 
     - [ ] https://leetcode.com
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
