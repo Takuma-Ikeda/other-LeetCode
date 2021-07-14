@@ -73,7 +73,7 @@
     - [x] https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/how_many_numbers_are_smaller_than_the_current_number.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_how_many_numbers_are_smaller_than_the_current_number.py
-    - ハッsyマップの利用
+    - ハッシュマップの利用
 1. 
     - [x] https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/subtract_the_product_and_sum_of_digits_of_an_integer.py
@@ -137,9 +137,9 @@
     
 1. 
     - [ ] https://leetcode.com/problems/find-center-of-star-graph/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - Graph に関する Problem 
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/find_center_of_star_graph.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_find_center_of_star_graph.py
+    - Graph の中央ノードを探す Problem 
 1. 
     - [ ] https://leetcode.com
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
