@@ -136,14 +136,15 @@
     - List の要素追加の最適化
     
 1. 
-    - [ ] https://leetcode.com/problems/find-center-of-star-graph/
+    - [x] https://leetcode.com/problems/find-center-of-star-graph/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/find_center_of_star_graph.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_find_center_of_star_graph.py
     - Graph の中央ノードを探す Problem 
 1. 
-    - [ ] https://leetcode.com
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+    - [x] https://leetcode.com/problems/range-sum-of-bst/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/range_sum_of_bst.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_range_sum_of_bst.py
+    - BST 探索、条件の合う値だけを足し算していく
 1. 
     - [ ] https://leetcode.com
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
