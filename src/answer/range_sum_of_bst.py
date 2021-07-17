@@ -8,6 +8,7 @@ class TreeNode:
 class Solution:
     def rangeSumBST(self, root: TreeNode, low: int, high: int) -> int:
         result = 0
+        # 前順走査 (Pre-Order Traversal)
         # result += root.val if (low <= root.val <= high) else 0 にした方が見やすい
         result += root.val if (root.val >= low and root.val <= high) else 0
 

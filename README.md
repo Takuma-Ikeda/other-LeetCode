@@ -146,9 +146,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_range_sum_of_bst.py
     - BST 探索、条件の合う値だけを足し算していく
 1. 
-    - [ ] https://leetcode.com
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+    - [x] https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/maximum_product_difference_between_two_pairs.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_maximum_product_difference_between_two_pairs.py
+    - ソート処理、sort/sorted の違い、float('inf')を利用するソート
 1. 
     - [ ] https://leetcode.com
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
