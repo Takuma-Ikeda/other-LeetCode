@@ -43,4 +43,4 @@ def maxProductDifference(self, nums: List[int]) -> int:
                max2 = n
 
        return max1 * max2 - min1 * min2
- '''
+'''
