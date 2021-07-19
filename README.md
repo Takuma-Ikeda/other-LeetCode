@@ -156,9 +156,9 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_sorting_the_sentence.py
         - lambda 構文、イテラブル要素を結合するときは join 
 1. 
-    - [ ] https://leetcode.com
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+    - [x] https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/ 
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/maximum_nesting_depth_of_the_parentheses.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_maximum_nesting_depth_of_the_parentheses.py
 1. 
     - [ ] https://leetcode.com
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
