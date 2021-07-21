@@ -159,6 +159,40 @@
     - [x] https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/ 
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/maximum_nesting_depth_of_the_parentheses.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_maximum_nesting_depth_of_the_parentheses.py
+    - max 関数の利用
+1. 
+    - [x] https://leetcode.com/problems/design-an-ordered-stream/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/design_an_ordered_stream.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_design_an_ordered_stream.py
+    - None 要素で初期化された List で Stream 処理を作成
+1. 
+    - [ ] https://leetcode.com
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+1. 
+    - [ ] https://leetcode.com
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+1. 
+    - [ ] https://leetcode.com
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+1. 
+    - [ ] https://leetcode.com
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+1. 
+    - [ ] https://leetcode.com
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+1. 
+    - [ ] https://leetcode.com
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+1. 
+    - [ ] https://leetcode.com
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
 1. 
     - [ ] https://leetcode.com
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
