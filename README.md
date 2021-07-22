@@ -166,9 +166,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_design_an_ordered_stream.py
     - None 要素で初期化された List で Stream 処理を作成
 1. 
-    - [ ] https://leetcode.com
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+    - [x] https://leetcode.com/problems/check-if-the-sentence-is-pangram/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/check_if_the_sentence_is_pangram.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_check_if_the_sentence_is_pangram.py
+    - 値が含まれているかどうかは in 句を使う / String.ascii_lowercase の使い方
 1. 
     - [ ] https://leetcode.com
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
