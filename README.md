@@ -176,9 +176,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_check_if_two_string_arrays_are_equivalent.py
     - List の要素結合は join を使う
 1. 
-    - [ ] https://leetcode.com
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+    - [x] https://leetcode.com/problems/count-of-matches-in-tournament/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/count_of_matches_in_tournament.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_count_of_matches_in_tournament.py
+    - math.ceil / math.floor
 1. 
     - [ ] https://leetcode.com
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
