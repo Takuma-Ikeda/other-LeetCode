@@ -181,9 +181,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_count_of_matches_in_tournament.py
     - math.ceil / math.floor
 1. 
-    - [ ] https://leetcode.com
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+    - [x] https://leetcode.com/problems/sum-of-all-odd-length-subarrays/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/sum_of_all_odd_length_subarrays.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_sum_of_all_odd_length_subarrays.py
+    - 偶数を生成するときは range の第三引数に 2 を渡す
 1. 
     - [ ] https://leetcode.com
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
