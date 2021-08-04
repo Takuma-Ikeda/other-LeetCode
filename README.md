@@ -17,183 +17,182 @@
 
 ### Easy
 
-1. 
+1.
     - [x] https://leetcode.com/problems/two-sum/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/two_sum.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_two_sum.py
-    - スライスに関する problem 
-1. 
+    - スライスに関する problem
+1.
     - [x] https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/two_sum_ii_input_array_is_sorted.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_two_sum_ii_input_array_is_sorted.py
-1. 
+1.
     - [x] https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/two_sum_iv_input_is_a_bst.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_two_sum_iv_input_is_a_bst.py
     - BST に関する problem
-1. 
+1.
     - [x] https://leetcode.com/problems/running-sum-of-1d-array/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/running_sum_of_1d_array.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_running_sum_of_1d_array.py
-1. 
+1.
     - [x] https://leetcode.com/problems/shuffle-the-array/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/shuffle_the_array.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_shuffle_the_array.py
-    - zip 関数の利用 
-1. 
+    - zip 関数の利用
+1.
     - [x] https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/kids_with_the_greatest_number_of_candies.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_kids_with_the_greatest_number_of_candies.py
     - 内包表記の利用
-1. 
+1.
     - [x] https://leetcode.com/problems/number-of-good-pairs/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/number_of_good_pairs.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_number_of_good_pairs.py
     - ハッシュテーブルの実装
-1. 
+1.
     - [x] https://leetcode.com/problems/defanging-an-ip-address/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/defanging_an_ip_address.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_defanging_an_ip_address.py
     - join 関数と split 関数の利用
-1. 
+1.
     - [x] https://leetcode.com/problems/jewels-and-stones/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/jewels_and_stones.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_jewels_and_stones.py
     - ハッシュマップの利用、Counter クラスの利用
-1. 
+1.
     - [x] https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/number_of_steps_to_reduce_a_number_to_zero.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_number_of_steps_to_reduce_a_number_to_zero.py
     - ビット演算の知識
-1. 
+1.
     - [x] https://leetcode.com/problems/shuffle-string/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/shuffle_string.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_shuffle_string.py
-1. 
+1.
     - [x] https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/how_many_numbers_are_smaller_than_the_current_number.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_how_many_numbers_are_smaller_than_the_current_number.py
     - ハッシュマップの利用
-1. 
+1.
     - [x] https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/subtract_the_product_and_sum_of_digits_of_an_integer.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_subtract_the_product_and_sum_of_digits_of_an_integer.py
     - 高層関数 reduce の利用
-1. 
+1.
     - [x] https://leetcode.com/problems/decompress-run-length-encoded-list/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/decompress_run_length_encoded_list.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_decompress_run_length_encoded_list.py
     - range の第三引数の利用
-1. 
+1.
     - [x] https://leetcode.com/problems/create-target-array-in-the-given-order/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/create_target_array_in_the_given_order.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_create_target_array_in_the_given_order.py
     - スライスの利用
-1. 
+1.
     - [x] https://leetcode.com/problems/xor-operation-in-an-array/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/xor_operation_in_an_array.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_xor_operation_in_an_array.py
     - ビット演算 XOR
-1. 
+1.
     - [x] https://leetcode.com/problems/build-array-from-permutation/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/build_array_from_permutation.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_build_array_from_permutation.py
     - 内包表記を利用
-1. 
+1.
     - [x] https://leetcode.com/problems/richest-customer-wealth/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/richest_customer_wealth.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_richest_customer_wealth.py
     - ジェネレータ関数 map と関数 max
-1. 
+1.
     - [x] https://leetcode.com/problems/design-parking-system/ 
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/design_parking_system.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_design_parking_system.py
     - 辞書型オブジェクトの利用
-1. 
+1.
     - [x] https://leetcode.com/problems/decode-xored-array/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/decode_xored_array.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_decode_xored_array.py
     - ビット演算 XOR
-1. 
+1.
     - [x] https://leetcode.com/problems/goal-parser-interpretation/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/goal_parser_interpretation.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_goal_parser_interpretation.py
     - 正規表現を使った置換
-1. 
+1.
     - [x] https://leetcode.com/problems/count-items-matching-a-rule/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/count_items_matching_a_rule.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_count_items_matching_a_rule.py
     - 内包表記でジェネレータを作成して sum で結果を返す
-1. 
+1.
     - [x] https://leetcode.com/problems/split-a-string-in-balanced-strings/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/split_a_string_in_balanced_strings.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_split_a_string_in_balanced_strings.py
     - +1 / -1 のカウントを利用した problem
-1. 
+1.
     - [x] https://leetcode.com/problems/concatenation-of-array/ 
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/concatenation_of_array.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_concatenation_of_array.py
     - List の要素追加の最適化
-    
-1. 
+1.
     - [x] https://leetcode.com/problems/find-center-of-star-graph/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/find_center_of_star_graph.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_find_center_of_star_graph.py
     - Graph の中央ノードを探す Problem 
-1. 
+1.
     - [x] https://leetcode.com/problems/range-sum-of-bst/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/range_sum_of_bst.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_range_sum_of_bst.py
     - BST 探索、条件の合う値だけを足し算していく
-1. 
+1.
     - [x] https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/maximum_product_difference_between_two_pairs.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_maximum_product_difference_between_two_pairs.py
     - ソート処理、sort/sorted の違い、float('inf')を利用するソート
-1. 
+1.
     - [x] https://leetcode.com/problems/sorting-the-sentence/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/sorting_the_sentence.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_sorting_the_sentence.py
-        - lambda 構文、イテラブル要素を結合するときは join 
-1. 
-    - [x] https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/ 
+        - lambda 構文、イテラブル要素を結合するときは join
+1.
+    - [x] https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/maximum_nesting_depth_of_the_parentheses.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_maximum_nesting_depth_of_the_parentheses.py
     - max 関数の利用
-1. 
+1.
     - [x] https://leetcode.com/problems/design-an-ordered-stream/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/design_an_ordered_stream.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_design_an_ordered_stream.py
     - None 要素で初期化された List で Stream 処理を作成
-1. 
+1.
     - [x] https://leetcode.com/problems/check-if-the-sentence-is-pangram/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/check_if_the_sentence_is_pangram.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_check_if_the_sentence_is_pangram.py
     - 値が含まれているかどうかは in 句を使う / String.ascii_lowercase の使い方
-1. 
+1.
     - [x] https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/check_if_two_string_arrays_are_equivalent.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_check_if_two_string_arrays_are_equivalent.py
     - List の要素結合は join を使う
-1. 
+1.
     - [x] https://leetcode.com/problems/count-of-matches-in-tournament/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/count_of_matches_in_tournament.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_count_of_matches_in_tournament.py
     - math.ceil / math.floor
-1. 
+1.
     - [x] https://leetcode.com/problems/sum-of-all-odd-length-subarrays/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/sum_of_all_odd_length_subarrays.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_sum_of_all_odd_length_subarrays.py
     - 偶数を生成するときは range の第三引数に 2 を渡す
-1. 
+1.
+    - [x] https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/convert_binary_number_in_a_linked_list_to_integer.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_convert_binary_number_in_a_linked_list_to_integer.py
+1.
     - [ ] https://leetcode.com
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-1. 
-    - [ ] https://leetcode.com
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-1. 
+1.
     - [ ] https://leetcode.com
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
@@ -206,7 +205,7 @@
 # Mac の場合
 brew install pipenv
 pipenv install
-pipenv --python 3.7.7  
+pipenv --python 3.7.7
 ```
 
 ### 起動・終了

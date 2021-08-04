@@ -6,6 +6,9 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
+flake8 = "*"
+autopep8 = "*"
+pipdeptree = "*"
 
 [requires]
 python_version = "3.7"

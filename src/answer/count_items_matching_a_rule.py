@@ -23,7 +23,7 @@ class Solution:
     def countMatches(self, items: List[List[str]], ruleKey: str, ruleValue: str) -> int:
         # index 0 が 'type', index 1 が 'color', index 2 が 'name' を表すという意味
         d = {'type': 0, 'color': 1, 'name': 2}
-        
+
         # ジェネレータ型を作成する内包表記
         # if の結果が true であれば 1 を sum するメソッド実行 (変数 result も必要ない)
         return sum(1 for item in items if item[d[ruleKey]] == ruleValue)
