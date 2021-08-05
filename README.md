@@ -188,10 +188,12 @@
     - [x] https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/convert_binary_number_in_a_linked_list_to_integer.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_convert_binary_number_in_a_linked_list_to_integer.py
+    - ある二進数末尾にビット追加されたときの十進数の計算方法
 1.
-    - [ ] https://leetcode.com
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+    - [x] https://leetcode.com/problems/count-the-number-of-consistent-strings/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/count_the_number_of_consistent_strings.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_count_the_number_of_consistent_strings.py
+    - ある文字が含まれているかどうか、を知りたいときは集合型を使うとパフォーマンスが上がる
 1.
     - [ ] https://leetcode.com
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py

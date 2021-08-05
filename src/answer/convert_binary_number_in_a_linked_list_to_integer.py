@@ -14,7 +14,7 @@ class Solution:
         while head:
             binary = head.val
             # 十進数に変換
-            # 末尾にバイナリ追加された後の十進数 = (2 * 元の十進数) + 末尾に追加されるバイナリ
+            # 末尾にバイナリ追加された後の十進数 = (2 * 十進数) + 末尾に追加されるバイナリ
             decimal = (2 * decimal) + binary
             head = head.next
 
