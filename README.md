@@ -195,9 +195,110 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_count_the_number_of_consistent_strings.py
     - ある文字が含まれているかどうか、を知りたいときは集合型を使うとパフォーマンスが上がる
 1.
-    - [ ] https://leetcode.com
+    - [x] https://leetcode.com/problems/to-lower-case/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/to_lower_case.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_to_lower_case.py
+    - Unicode のコードポイントを取得して、小文字だったら +32 して大文字変換する
+1.
+    - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+    - ***
+1.
+    - [] https://leetcode.com/problems/***/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+    - ***
+1.
+    - [] https://leetcode.com/problems/***/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+    - ***
+1.
+    - [] https://leetcode.com/problems/***/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+    - ***
+1.
+    - [] https://leetcode.com/problems/***/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+    - ***
+1.
+    - [] https://leetcode.com/problems/***/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+    - ***
+1.
+    - [] https://leetcode.com/problems/***/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+    - ***
+1.
+    - [] https://leetcode.com/problems/***/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+    - ***
+1.
+    - [] https://leetcode.com/problems/***/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+    - ***
+1.
+    - [] https://leetcode.com/problems/***/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+    - ***
+1.
+    - [] https://leetcode.com/problems/***/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+    - ***
+1.
+    - [] https://leetcode.com/problems/***/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+    - ***
+1.
+    - [] https://leetcode.com/problems/***/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+    - ***
+1.
+    - [] https://leetcode.com/problems/***/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+    - ***
+1.
+    - [] https://leetcode.com/problems/***/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+    - ***
+1.
+    - [] https://leetcode.com/problems/***/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+    - ***
+1.
+    - [] https://leetcode.com/problems/***/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+    - ***
+1.
+    - [] https://leetcode.com/problems/***/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+    - ***
+1.
+    - [] https://leetcode.com/problems/***/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+    - ***
+1.
+    - [] https://leetcode.com/problems/***/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+    - ***
 
 ## Python 実行環境
 
