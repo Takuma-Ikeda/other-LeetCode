@@ -200,10 +200,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_to_lower_case.py
     - Unicode のコードポイントを取得して、小文字だったら +32 して大文字変換する
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/https://leetcode.com/problems/truncate-sentence/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/truncate_sentence.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_truncate_sentence.py
+    - split / 要素の削除、またはスライス
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
