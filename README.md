@@ -205,10 +205,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_truncate_sentence.py
     - split / 要素の削除、またはスライス
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/count-good-triplets/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/count_good_triplets.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_count_good_triplets.py
+    - 組み合わせパターンの問題、range の初期値の指定、絶対値は abs、all / any / not any を使った条件判定
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
