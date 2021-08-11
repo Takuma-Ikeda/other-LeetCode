@@ -210,15 +210,15 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_count_good_triplets.py
     - 組み合わせパターンの問題、range の初期値の指定、絶対値は abs、all / any / not any を使った条件判定
 1.
-    - [] https://leetcode.com/problems/replace-all-digits-with-characters/
+    - [x] https://leetcode.com/problems/replace-all-digits-with-characters/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/replace_all_digits_with_characters.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_replace_all_digits_with_characters.py
     - Unicode のコードポイント、isdigit()、文字列結合には append や join を使う
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/remove-outermost-parentheses/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/remove_outermost_parentheses.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_remove_outermost_parentheses.py
+    - 文字列から対になるペアを探す
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
