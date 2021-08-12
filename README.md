@@ -220,10 +220,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_remove_outermost_parentheses.py
     - 文字列から対になるペアを探す
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/find-the-highest-altitude/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/find_the_highest_altitude.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_find_the_highest_altitude.py
+    - `from itertools import accumulate` でリスト要素同士の演算結果の推移を取得
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
