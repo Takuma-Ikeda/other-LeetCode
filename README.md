@@ -225,10 +225,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_find_the_highest_altitude.py
     - `from itertools import accumulate` でリスト要素同士の演算結果の推移を取得
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/unique-morse-code-words/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/unique_morse_code_words.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_unique_morse_code_words.py
+    - `string.ascii_lowercase` でアルファベット小文字の辞書型を作成、内包表記
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
