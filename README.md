@@ -230,10 +230,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_unique_morse_code_words.py
     - `string.ascii_lowercase` でアルファベット小文字の辞書型を作成、内包表記
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/minimum-time-visiting-all-points/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/minimum_time_visiting_all_points.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_minimum_time_visiting_all_points.py
+    - 絶対値で二次元グラフの最短移動ステップ数を計算する
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
