@@ -235,10 +235,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_minimum_time_visiting_all_points.py
     - 絶対値で二次元グラフの最短移動ステップ数を計算する
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/flipping-an-image/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/flipping_an_image.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_flipping_an_image.py
+    - スライス [::-1] で逆順を取得できる
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
