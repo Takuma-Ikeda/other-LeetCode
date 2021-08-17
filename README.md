@@ -240,9 +240,9 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_flipping_an_image.py
     - スライス [::-1] で逆順を取得できる
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+    - [x] https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/number_of_rectangles_that_can_form_the_largest_square.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_number_of_rectangles_that_can_form_the_largest_square.py
     - ***
 1.
     - [] https://leetcode.com/problems/***/
