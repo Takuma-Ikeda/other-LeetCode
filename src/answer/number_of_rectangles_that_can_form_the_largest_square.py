@@ -20,7 +20,7 @@ class Solution:
 '''
 class Solution:
     def countGoodRectangles(self, rectangles):
-        // 辞書型で key は 長さの数値、value は出現回数を管理する
+        // 辞書型をつかって key は 長さの数値、value は出現回数を管理する
         t = {}
         for r in rectangles:
             p = min(r)

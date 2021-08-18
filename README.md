@@ -130,7 +130,7 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_split_a_string_in_balanced_strings.py
     - +1 / -1 のカウントを利用した problem
 1.
-    - [x] https://leetcode.com/problems/concatenation-of-array/ 
+    - [x] https://leetcode.com/problems/concatenation-of-array/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/concatenation_of_array.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_concatenation_of_array.py
     - List の要素追加の最適化
@@ -138,7 +138,7 @@
     - [x] https://leetcode.com/problems/find-center-of-star-graph/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/find_center_of_star_graph.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_find_center_of_star_graph.py
-    - Graph の中央ノードを探す Problem 
+    - Graph の中央ノードを探す Problem
 1.
     - [x] https://leetcode.com/problems/range-sum-of-bst/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/range_sum_of_bst.py
@@ -243,12 +243,12 @@
     - [x] https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/number_of_rectangles_that_can_form_the_largest_square.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_number_of_rectangles_that_can_form_the_largest_square.py
-    - ***
+    - 辞書型で出現回数をカウントする (ハッシュテーブル) / List の特定の値の出現回数を知りたいときは count(値)
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/cells_with_odd_values_in_a_matrix.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_cells_with_odd_values_in_a_matrix.py
+    - `for col, row in indices` といった最初から変数で取り出す方法 / `for _ in range(m):` といった感じで不要な変数は `_` にしておく
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
