@@ -250,10 +250,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_cells_with_odd_values_in_a_matrix.py
     - `for col, row in indices` といった最初から変数で取り出す方法 / `for _ in range(m):` といった感じで不要な変数は `_` にしておく
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/determine-if-string-halves-are-alike/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/determine_if_string_halves_are_alike.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_determine_if_string_halves_are_alike.py
+    - スライス、集合型
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
