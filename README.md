@@ -255,10 +255,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_determine_if_string_halves_are_alike.py
     - スライス、集合型
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/maximum-69-number/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/maximum_69_number.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_maximum_69_number.py
+    - pow でべき乗計算 (任意の桁だけ演算したいときに便利) / `//` は切り捨て除算。`// 10` で桁数を減らすことができる
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
