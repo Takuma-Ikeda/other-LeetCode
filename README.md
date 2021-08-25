@@ -260,10 +260,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_maximum_69_number.py
     - pow でべき乗計算 (任意の桁だけ演算したいときに便利) / `//` は切り捨て除算。`// 10` で桁数を減らすことができる
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/decrypt_string_from_alphabet_to_integer_mapping.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_decrypt_string_from_alphabet_to_integer_mapping.py
+    - `range(26, 0, -1):` でカウントダウンの文字を生成できる、文字列置換、Unicode コードポイント
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
