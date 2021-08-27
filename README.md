@@ -265,9 +265,9 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_decrypt_string_from_alphabet_to_integer_mapping.py
     - `range(26, 0, -1):` でカウントダウンの文字を生成できる、文字列置換、Unicode コードポイント
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
+    - [x] https://leetcode.com/problems/matrix-diagonal-sum/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/matrix_diagonal_sum.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_matrix_diagonal_sum.py
     - ***
 1.
     - [] https://leetcode.com/problems/***/
