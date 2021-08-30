@@ -268,12 +268,12 @@
     - [x] https://leetcode.com/problems/matrix-diagonal-sum/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/matrix_diagonal_sum.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_matrix_diagonal_sum.py
-    - ***
+    - 行列計算
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/minimum_operations_to_make_the_array_increasing.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_minimum_operations_to_make_the_array_increasing.py
+    - range の初期値を必ず 0 にする必要はない、count はループで +1 していくのではなく一気に数えられる方法がないか考える
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
