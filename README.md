@@ -275,10 +275,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_minimum_operations_to_make_the_array_increasing.py
     - range の初期値を必ず 0 にする必要はない、count はループで +1 していくのではなく一気に数えられる方法がないか考える
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/find_numbers_with_even_number_of_digits.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_find_numbers_with_even_number_of_digits.py
+    - 内包表記
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py

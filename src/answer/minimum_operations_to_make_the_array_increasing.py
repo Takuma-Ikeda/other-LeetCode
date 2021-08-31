@@ -38,6 +38,7 @@ class Solution:
     def minOperations(self, nums: List[int]) -> int:
         count = 0
 
+        # range 初期値 1 なら減算して index bound エラーにならない
         for i in range(1, len(nums)):
             # 一つ前の数字より小さいとしたら
             if nums[i] <= nums[i - 1]:
