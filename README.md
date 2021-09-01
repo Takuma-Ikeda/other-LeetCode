@@ -280,10 +280,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_find_numbers_with_even_number_of_digits.py
     - 内包表記
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/increasing-decreasing-string/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/increasing_decreasing_string.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_increasing_decreasing_string.py
+    - sort 関数 / remove で一文字だけ削除できる / 結果は基本的に List で持っておいて最後に join するほうがいい / 辞書型でアルファベットのハッシュマップ作成
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
