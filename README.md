@@ -290,10 +290,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_destination_city.py
     - 辞書型
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/maximum_product_of_two_elements_in_an_array.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_maximum_product_of_two_elements_in_an_array.py
+    - index(値) メソッドで List のインデックスを取得できる / sort メソッド
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
