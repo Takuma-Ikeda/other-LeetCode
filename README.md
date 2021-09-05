@@ -300,10 +300,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_determine_color_of_a_chessboard_square.py
     - x, y 軸の偶数・奇数で互い違いになるようにする
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/sum-of-all-subset-xor-totals/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/sum_of_all_subset_xor_totals.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_sum_of_all_subset_xor_totals.py
+    - itertools にすべての組み合わせを返却する combinations メソッドがある / xor
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
