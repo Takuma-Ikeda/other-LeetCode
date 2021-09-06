@@ -305,10 +305,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_sum_of_all_subset_xor_totals.py
     - itertools にすべての組み合わせを返却する combinations メソッドがある / xor
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/number_of_strings_that_appear_as_substrings_in_word.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/tes_number_of_strings_that_appear_as_substrings_in_word.py
+    - 内包表記の書き方: `sum(1 for x in patterns if x in word)` でも `sum(x in word for x in patterns)` でもよい
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
