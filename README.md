@@ -310,10 +310,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/tes_number_of_strings_that_appear_as_substrings_in_word.py
     - 内包表記の書き方: `sum(1 for x in patterns if x in word)` でも `sum(x in word for x in patterns)` でもよい
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/generate_a_string_with_characters_that_have_odd_counts.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_generate_a_string_with_characters_that_have_odd_counts.py
+    - 文字列の演算を使ったほうが可読性があがる: "a" * (n - 1) + 'b'
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
