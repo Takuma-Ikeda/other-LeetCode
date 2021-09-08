@@ -313,12 +313,12 @@
     - [x] https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/generate_a_string_with_characters_that_have_odd_counts.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_generate_a_string_with_characters_that_have_odd_counts.py
-    - 文字列の演算を使ったほうが可読性があがる: "a" * (n - 1) + 'b'
+    - 文字列の演算を使ったほうが可読性があがる: `"a" * (n - 1) + 'b'`
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/find-greatest-common-divisor-of-array/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/find_greatest_common_divisor_of_array.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_find_greatest_common_divisor_of_array.py
+    - ユークリッド距離
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
