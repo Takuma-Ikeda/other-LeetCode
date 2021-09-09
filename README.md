@@ -320,10 +320,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_find_greatest_common_divisor_of_array.py
     - ユークリッド距離
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/check_if_all_characters_have_equal_number_of_occurrences.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_check_if_all_characters_have_equal_number_of_occurrences.py
+    - `from collections import Counter` で文字の出現回数をカウントしたハッシュマップを作成できる
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
