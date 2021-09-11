@@ -325,10 +325,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_check_if_all_characters_have_equal_number_of_occurrences.py
     - `from collections import Counter` で文字の出現回数をカウントしたハッシュマップを作成できる
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/number_of_students_doing_homework_at_a_given_time.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_number_of_students_doing_homework_at_a_given_time.py
+    - `sum([queryTime >= i and queryTime <= j for i, j in zip(startTime, endTime)])` のように if 条件は前に持ってこれる
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
