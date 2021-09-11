@@ -330,10 +330,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_number_of_students_doing_homework_at_a_given_time.py
     - `sum([queryTime >= i and queryTime <= j for i, j in zip(startTime, endTime)])` のように if 条件は前に持ってこれる
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/find_n_unique_integers_sum_up_to_zero.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_find_n_unique_integers_sum_up_to_zero.py
+    - `//` は整数除算
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
