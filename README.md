@@ -335,10 +335,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_find_n_unique_integers_sum_up_to_zero.py
     - `//` は整数除算
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/self-dividing-numbers/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/self_dividing_numbers.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_self_dividing_numbers.py
+    - 桁数を減らしたいときは `number //= 10`
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py

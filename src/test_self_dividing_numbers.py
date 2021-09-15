@@ -1,23 +1,26 @@
 import unittest
-from answer.two_sum import Solution
+from answer.self_dividing_numbers import Solution
 
 
 class TestSolution(unittest.TestCase):
 
     def setUp(self):
-        self.nums = [
-            [2, 7, 11, 15]
+        self.left = [
+            1,
+            47,
         ]
-        self.targets = [
-            9
+        self.right = [
+            22,
+            85,
         ]
         self.answers = [
-            [0, 1]
+            [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 15, 22],
+            [48, 55, 66, 77],
         ]
 
     def solution(self, i):
         s = Solution()
-        result = s.twoSum(self.nums[i], self.targets[i])
+        result = s.selfDividingNumbers(self.left[i], self.right[i])
         self.assertEqual(self.answers[i], result)
 
     def test_solution(self):
