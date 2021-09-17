@@ -345,10 +345,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_reverse_prefix_of_word.py
     - `str[::-1]` で逆順の文字列になる
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/sum-of-digits-in-base-k/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/sum_of_digits_in_base_k.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_sum_of_digits_in_base_k.py
+    - 十進数から n 進数に変換する方法: 対象が 0 になるまで n で割り続けて 余り をつなげる
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
