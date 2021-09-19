@@ -350,10 +350,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_sum_of_digits_in_base_k.py
     - 十進数から n 進数に変換する方法: 対象が 0 になるまで n で割り続けて 余り をつなげる
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/merge-two-binary-trees/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/merge_two_binary_trees.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_merge_two_binary_trees.py
+    - 二分木どうしのマージ
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
