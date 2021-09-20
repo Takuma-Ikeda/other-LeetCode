@@ -355,10 +355,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_merge_two_binary_trees.py
     - 二分木どうしのマージ
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/final_value_of_variable_after_performing_operations.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_final_value_of_variable_after_performing_operations.py
+    - if - else のワンライナー処理 `return sum(1 if '+' in o else -1 for o in operations)`
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
