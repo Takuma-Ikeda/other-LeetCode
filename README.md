@@ -360,10 +360,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_final_value_of_variable_after_performing_operations.py
     - if - else のワンライナー処理 `return sum(1 if '+' in o else -1 for o in operations)`
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/count_number_of_pairs_with_absolute_difference-k.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_count_number_of_pairs_with_absolute_difference-k.py
+    - 辞書型の宣言は `defaultdict(int)` が便利
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
