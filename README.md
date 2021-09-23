@@ -365,10 +365,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_count_number_of_pairs_with_absolute_difference-k.py
     - 辞書型の宣言は `defaultdict(int)` が便利
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/increasing-order-search-tree/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/increasing_order_search_tree.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_increasing_order_search_tree.py
+    - 関数内関数で再起処理の結果を保持する、センチネルでガベージコレクションされないように配慮する
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
