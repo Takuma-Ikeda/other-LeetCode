@@ -358,7 +358,7 @@
     - [x] https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/final_value_of_variable_after_performing_operations.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_final_value_of_variable_after_performing_operations.py
-    - if - else のワンライナー処理 `return sum(1 if '+' in o else -1 for o in operations)`
+    - if - else のワンライナー処理 `return sum(1 if '+' in o else -1 for o in operations)` if キーワードを使うと else は必須
 1.
     - [x] https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/count_number_of_pairs_with_absolute_difference-k.py
@@ -370,10 +370,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_increasing_order_search_tree.py
     - 関数内関数で再起処理の結果を保持する、センチネルでガベージコレクションされないように配慮する
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/count_negative_numbers_in_a_sorted_matrix.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_count_negative_numbers_in_a_sorted_matrix.py
+    - `sum(v < 0 for v in li)` / `sum(1 if v < 0 else 0 for v in li)` どっちも同じだが前者がシンプル
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
