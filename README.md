@@ -375,10 +375,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_count_negative_numbers_in_a_sorted_matrix.py
     - `sum(v < 0 for v in li)` / `sum(1 if v < 0 else 0 for v in li)` どっちも同じだが前者がシンプル
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/n-ary-tree-postorder-traversal/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/n_ary_tree_postorder_traversal.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_n_ary_tree_postorder_traversal.py
+    - Node が List になっており、List の要素が Node になっている場合 / List.extend で List 要素を結合する
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
