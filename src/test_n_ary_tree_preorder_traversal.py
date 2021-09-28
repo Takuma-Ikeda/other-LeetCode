@@ -1,5 +1,5 @@
 import unittest
-from answer.n_ary_tree_postorder_traversal import Solution, Node
+from answer.n_ary_tree_preorder_traversal import Solution, Node
 
 
 class TestSolution(unittest.TestCase):
@@ -38,13 +38,13 @@ class TestSolution(unittest.TestCase):
             ]),
         ]
         self.answers = [
-            [5, 6, 3, 2, 4, 1],
-            [2, 6, 14, 11, 7, 3, 12, 8, 4, 13, 9, 10, 5, 1]
+            [1, 3, 5, 6, 2, 4],
+            [1, 2, 3, 6, 7, 11, 14, 4, 8, 12, 5, 9, 13, 10],
         ]
 
     def solution(self, i):
         s = Solution()
-        result = s.postorder(self.root[i])
+        result = s.preorder(self.root[i])
         self.assertEqual(self.answers[i], result)
 
     def test_solution(self):

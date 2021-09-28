@@ -378,17 +378,17 @@
     - [x] https://leetcode.com/problems/n-ary-tree-postorder-traversal/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/n_ary_tree_postorder_traversal.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_n_ary_tree_postorder_traversal.py
-    - Node が List になっており、List の要素が Node になっている場合 / List.extend で List 要素を結合する
+    - 後順走査: post-oreder traversal、Node が List になっており、List の要素が Node になっている場合 / List.extend で List 要素を結合する
 1.
     - [x] https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/n_repeated_element_in_size_2n_array.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_answer/n_repeated_element_in_size_2n_array.py
     - `count()`: 値を指定して、その値の要素がいくつ存在するか取得できる / `mode()` なら最頻値の要素を一発で取得できる
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/n-ary-tree-preorder-traversal/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/n_ary_tree_preorder_traversal.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_n_ary_tree_preorder_traversal.py
+    - 前順走査: pre-oreder traversal
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
