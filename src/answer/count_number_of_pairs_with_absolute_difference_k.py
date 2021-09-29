@@ -17,6 +17,9 @@ class Solution:
 # https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/discuss/1471015/Python-Clean-and-concise.-Dictionary-T.C-O(N)
 
 '''
+from collections import defaultdict
+
+
 class Solution:
     def countKDifference(self, nums: List[int], k: int) -> int:
         # 辞書型の初期化: int を指定すると初期値が 0 に設定されるので、 seen[num] = 0 をしておく必要がなくなる

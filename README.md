@@ -390,10 +390,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_n_ary_tree_preorder_traversal.py
     - 前順走査: pre-oreder traversal
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/sum-of-unique-elements/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/sum_of_unique_elements.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_sum_of_unique_elements.py
+    - `[uniq.append(num) for num in nums if nums.count(num) == 1]` 該当する要素だけを他の List に追加していく内包表記
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
