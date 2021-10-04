@@ -400,10 +400,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_final_prices_with_a_special_discount_in_a_shop.py
     - List で stack を実装。pop で取り出す
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/sort-array-by-parity/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/sort_array_by_parity.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_sort_array_by_parity.py
+    - ラムダ式でソートする `sorted(nums, key = lambda x : x % 2)`
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
