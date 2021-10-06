@@ -410,10 +410,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_reverse_words_in_a_string_iii.py
     - List 要素を処理して join で結合して return する
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/array-partition-i/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/array_partition_i.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_array_partition_i.py
+    - `i = iter(list)` して `for v1, v2 in zip(i, i):` すれば List の要素を 2 つ同時に取り出せる
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
