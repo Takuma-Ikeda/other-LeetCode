@@ -420,10 +420,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_replace_elements_with_greatest_element_on_right_side.py
     - リストを編集して返却する `return [-1 if (i == last_index) else max(arr[i + 1:]) for i, _ in enumerate(arr)]`
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/merge-strings-alternately/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/merge_strings_alternately.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_merge_strings_alternately.py
+    - 長さがいびつな List が複数あるときは zip じゃなくて `zip_longest(word1, word2, fillvalue=''))` を使うほうがよい
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
