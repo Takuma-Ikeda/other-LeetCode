@@ -425,10 +425,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_merge_strings_alternately.py
     - 長さがいびつな List が複数あるときは zip じゃなくて `zip_longest(word1, word2, fillvalue=''))` を使うほうがよい
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/hamming-distance/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/hamming_distance.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_hamming_distance.py
+    - XOR / popcount する方法 / ハミング距離について
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
