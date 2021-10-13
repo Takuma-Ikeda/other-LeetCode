@@ -430,10 +430,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_hamming_distance.py
     - XOR / popcount する方法 / ハミング距離について
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/height-checker/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/height_checker.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_height_checker.py
+    - sorted / Counting Sort
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
