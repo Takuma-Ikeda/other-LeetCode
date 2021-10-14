@@ -363,7 +363,7 @@
     - [x] https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/count_number_of_pairs_with_absolute_difference_k.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_count_number_of_pairs_with_absolute_difference_k.py
-    - 辞書型の宣言は `defaultdict(int)` が便利
+    - 辞書型の宣言は `defaultdict(int)` が便利 / ハッシュマップに有効
 1.
     - [x] https://leetcode.com/problems/increasing-order-search-tree/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/increasing_order_search_tree.py
@@ -435,10 +435,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_height_checker.py
     - sorted / Counting Sort
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/maximum-number-of-balls-in-a-box/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/maximum_number_of_balls_in_a_box.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_maximum_number_of_balls_in_a_box.py
+    - ハッシュマップ / defaultdict
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
