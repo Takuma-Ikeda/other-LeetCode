@@ -440,10 +440,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_maximum_number_of_balls_in_a_box.py
     - ハッシュマップ / defaultdict
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/minimum_time_to_type_word_using_special_typewriter.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/test_minimum_time_to_type_word_using_special_typewriter.py
+    - アルファベットの時計回り、反時計回りの実装 / コードポイント
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/answer/***.py
