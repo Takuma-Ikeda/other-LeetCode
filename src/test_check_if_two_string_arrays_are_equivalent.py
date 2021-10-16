@@ -1,5 +1,5 @@
 import unittest
-from answer.check_if_two_string_arrays_are_equivalent import Solution
+from answer.easy.check_if_two_string_arrays_are_equivalent import Solution
 
 
 class TestSolution(unittest.TestCase):

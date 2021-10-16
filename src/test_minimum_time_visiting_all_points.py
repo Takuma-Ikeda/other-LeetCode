@@ -1,5 +1,5 @@
 import unittest
-from answer.minimum_time_visiting_all_points import Solution
+from answer.easy.minimum_time_visiting_all_points import Solution
 
 
 class TestSolution(unittest.TestCase):

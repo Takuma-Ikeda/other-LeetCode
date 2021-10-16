@@ -1,5 +1,5 @@
 import unittest
-from answer.destination_city import Solution
+from answer.easy.destination_city import Solution
 
 
 class TestSolution(unittest.TestCase):

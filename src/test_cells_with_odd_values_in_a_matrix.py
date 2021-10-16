@@ -1,5 +1,5 @@
 import unittest
-from answer.cells_with_odd_values_in_a_matrix import Solution
+from answer.easy.cells_with_odd_values_in_a_matrix import Solution
 
 
 class TestSolution(unittest.TestCase):

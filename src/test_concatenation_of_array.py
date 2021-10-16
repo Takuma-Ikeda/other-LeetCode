@@ -1,5 +1,5 @@
 import unittest
-from answer.concatenation_of_array import Solution
+from answer.easy.concatenation_of_array import Solution
 
 
 class TestSolution(unittest.TestCase):

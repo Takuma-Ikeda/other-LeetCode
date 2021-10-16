@@ -1,5 +1,5 @@
 import unittest
-from answer.truncate_sentence import Solution
+from answer.easy.truncate_sentence import Solution
 
 
 class TestSolution(unittest.TestCase):

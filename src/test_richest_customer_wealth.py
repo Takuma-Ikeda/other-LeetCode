@@ -1,5 +1,5 @@
 import unittest
-from answer.richest_customer_wealth import Solution
+from answer.easy.richest_customer_wealth import Solution
 
 
 class TestSolution(unittest.TestCase):

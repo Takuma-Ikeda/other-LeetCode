@@ -1,5 +1,5 @@
 import unittest
-from answer.decode_xored_array import Solution
+from answer.easy.decode_xored_array import Solution
 
 
 class TestSolution(unittest.TestCase):

@@ -1,5 +1,5 @@
 import unittest
-from answer.number_of_good_pairs import Solution
+from answer.easy.number_of_good_pairs import Solution
 
 
 class TestSolution(unittest.TestCase):

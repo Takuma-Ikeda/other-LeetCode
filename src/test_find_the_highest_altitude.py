@@ -1,5 +1,5 @@
 import unittest
-from answer.find_the_highest_altitude import Solution
+from answer.easy.find_the_highest_altitude import Solution
 
 
 class TestSolution(unittest.TestCase):

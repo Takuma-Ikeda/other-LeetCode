@@ -1,5 +1,5 @@
 import unittest
-from answer.check_if_the_sentence_is_pangram import Solution
+from answer.easy.check_if_the_sentence_is_pangram import Solution
 
 
 class TestSolution(unittest.TestCase):

@@ -1,5 +1,5 @@
 import unittest
-from answer.number_of_rectangles_that_can_form_the_largest_square import Solution
+from answer.easy.number_of_rectangles_that_can_form_the_largest_square import Solution
 
 
 class TestSolution(unittest.TestCase):

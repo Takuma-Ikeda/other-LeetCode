@@ -1,5 +1,5 @@
 import unittest
-from answer.find_greatest_common_divisor_of_array import Solution
+from answer.easy.find_greatest_common_divisor_of_array import Solution
 
 
 class TestSolution(unittest.TestCase):

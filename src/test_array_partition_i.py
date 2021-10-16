@@ -1,5 +1,5 @@
 import unittest
-from answer.array_partition_i import Solution
+from answer.easy.array_partition_i import Solution
 
 
 class TestSolution(unittest.TestCase):

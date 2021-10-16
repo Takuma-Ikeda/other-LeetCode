@@ -1,5 +1,5 @@
 import unittest
-from answer.matrix_diagonal_sum import Solution
+from answer.easy.matrix_diagonal_sum import Solution
 
 
 class TestSolution(unittest.TestCase):

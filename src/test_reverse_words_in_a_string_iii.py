@@ -1,5 +1,5 @@
 import unittest
-from answer.reverse_words_in_a_string_iii import Solution
+from answer.easy.reverse_words_in_a_string_iii import Solution
 
 
 class TestSolution(unittest.TestCase):

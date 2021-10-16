@@ -1,5 +1,5 @@
 import unittest
-from answer.kids_with_the_greatest_number_of_candies import Solution
+from answer.easy.kids_with_the_greatest_number_of_candies import Solution
 
 
 class TestSolution(unittest.TestCase):

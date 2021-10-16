@@ -1,5 +1,5 @@
 import unittest
-from answer.count_of_matches_in_tournament import Solution
+from answer.easy.count_of_matches_in_tournament import Solution
 
 
 class TestSolution(unittest.TestCase):

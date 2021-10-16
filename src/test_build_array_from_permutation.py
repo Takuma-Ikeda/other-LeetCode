@@ -1,5 +1,5 @@
 import unittest
-from answer.build_array_from_permutation import Solution
+from answer.easy.build_array_from_permutation import Solution
 
 
 class TestSolution(unittest.TestCase):

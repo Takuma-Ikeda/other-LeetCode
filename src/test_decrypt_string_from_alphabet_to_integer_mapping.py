@@ -1,5 +1,5 @@
 import unittest
-from answer.decrypt_string_from_alphabet_to_integer_mapping import Solution
+from answer.easy.decrypt_string_from_alphabet_to_integer_mapping import Solution
 
 
 class TestSolution(unittest.TestCase):

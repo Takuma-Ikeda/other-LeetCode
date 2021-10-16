@@ -1,5 +1,5 @@
 import unittest
-from answer.maximum_69_number import Solution
+from answer.easy.maximum_69_number import Solution
 
 
 class TestSolution(unittest.TestCase):

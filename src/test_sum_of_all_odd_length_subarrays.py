@@ -1,5 +1,5 @@
 import unittest
-from answer.sum_of_all_odd_length_subarrays import Solution
+from answer.easy.sum_of_all_odd_length_subarrays import Solution
 
 
 class TestSolution(unittest.TestCase):

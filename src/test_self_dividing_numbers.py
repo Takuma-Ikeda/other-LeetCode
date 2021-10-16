@@ -1,5 +1,5 @@
 import unittest
-from answer.self_dividing_numbers import Solution
+from answer.easy.self_dividing_numbers import Solution
 
 
 class TestSolution(unittest.TestCase):

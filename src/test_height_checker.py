@@ -1,5 +1,5 @@
 import unittest
-from answer.height_checker import Solution
+from answer.easy.height_checker import Solution
 
 
 class TestSolution(unittest.TestCase):

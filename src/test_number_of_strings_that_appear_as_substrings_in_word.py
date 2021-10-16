@@ -1,5 +1,5 @@
 import unittest
-from answer.number_of_strings_that_appear_as_substrings_in_word import Solution
+from answer.easy.number_of_strings_that_appear_as_substrings_in_word import Solution
 
 
 class TestSolution(unittest.TestCase):

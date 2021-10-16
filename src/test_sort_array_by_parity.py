@@ -1,5 +1,5 @@
 import unittest
-from answer.sort_array_by_parity import Solution
+from answer.easy.sort_array_by_parity import Solution
 
 
 class TestSolution(unittest.TestCase):

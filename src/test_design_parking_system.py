@@ -1,5 +1,5 @@
 import unittest
-from answer.design_parking_system import ParkingSystem
+from answer.easy.design_parking_system import ParkingSystem
 
 
 class TestSolution(unittest.TestCase):

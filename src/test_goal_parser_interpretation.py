@@ -1,5 +1,5 @@
 import unittest
-from answer.goal_parser_interpretation import Solution
+from answer.easy.goal_parser_interpretation import Solution
 
 
 class TestSolution(unittest.TestCase):

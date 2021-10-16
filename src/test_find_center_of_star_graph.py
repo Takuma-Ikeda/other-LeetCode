@@ -1,5 +1,5 @@
 import unittest
-from answer.find_center_of_star_graph import Solution
+from answer.easy.find_center_of_star_graph import Solution
 
 
 class TestSolution(unittest.TestCase):

@@ -1,5 +1,5 @@
 import unittest
-from answer.range_sum_of_bst import Solution, TreeNode
+from answer.easy.range_sum_of_bst import Solution, TreeNode
 
 
 class TestSolution(unittest.TestCase):

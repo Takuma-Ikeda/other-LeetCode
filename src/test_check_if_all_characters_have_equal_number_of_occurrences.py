@@ -1,5 +1,5 @@
 import unittest
-from answer.check_if_all_characters_have_equal_number_of_occurrences import Solution
+from answer.easy.check_if_all_characters_have_equal_number_of_occurrences import Solution
 
 
 class TestSolution(unittest.TestCase):

@@ -1,5 +1,5 @@
 import unittest
-from answer.decompress_run_length_encoded_list import Solution
+from answer.easy.decompress_run_length_encoded_list import Solution
 
 
 class TestSolution(unittest.TestCase):

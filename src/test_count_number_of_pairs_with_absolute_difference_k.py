@@ -1,5 +1,5 @@
 import unittest
-from answer.count_number_of_pairs_with_absolute_difference_k import Solution
+from answer.easy.count_number_of_pairs_with_absolute_difference_k import Solution
 
 
 class TestSolution(unittest.TestCase):

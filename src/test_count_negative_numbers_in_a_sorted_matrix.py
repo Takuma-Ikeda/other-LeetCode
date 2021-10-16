@@ -1,5 +1,5 @@
 import unittest
-from answer.count_negative_numbers_in_a_sorted_matrix import Solution
+from answer.easy.count_negative_numbers_in_a_sorted_matrix import Solution
 
 
 class TestSolution(unittest.TestCase):

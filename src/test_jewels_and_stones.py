@@ -1,5 +1,5 @@
 import unittest
-from answer.jewels_and_stones import Solution
+from answer.easy.jewels_and_stones import Solution
 
 
 class TestSolution(unittest.TestCase):

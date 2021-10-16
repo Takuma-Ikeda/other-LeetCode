@@ -1,5 +1,5 @@
 import unittest
-from answer.final_value_of_variable_after_performing_operations import Solution
+from answer.easy.final_value_of_variable_after_performing_operations import Solution
 
 
 class TestSolution(unittest.TestCase):

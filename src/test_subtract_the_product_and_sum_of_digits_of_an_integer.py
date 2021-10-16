@@ -1,5 +1,5 @@
 import unittest
-from answer.subtract_the_product_and_sum_of_digits_of_an_integer import Solution
+from answer.easy.subtract_the_product_and_sum_of_digits_of_an_integer import Solution
 
 
 class TestSolution(unittest.TestCase):

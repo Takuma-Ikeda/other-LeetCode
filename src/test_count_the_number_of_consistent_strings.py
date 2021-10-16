@@ -1,5 +1,5 @@
 import unittest
-from answer.count_the_number_of_consistent_strings import Solution
+from answer.easy.count_the_number_of_consistent_strings import Solution
 
 
 class TestSolution(unittest.TestCase):

@@ -1,5 +1,5 @@
 import unittest
-from answer.defanging_an_ip_address import Solution
+from answer.easy.defanging_an_ip_address import Solution
 
 
 class TestSolution(unittest.TestCase):

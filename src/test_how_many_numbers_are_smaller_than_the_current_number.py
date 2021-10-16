@@ -1,5 +1,5 @@
 import unittest
-from answer.how_many_numbers_are_smaller_than_the_current_number import Solution
+from answer.easy.how_many_numbers_are_smaller_than_the_current_number import Solution
 
 
 class TestSolution(unittest.TestCase):

@@ -1,5 +1,5 @@
 import unittest
-from answer.maximum_nesting_depth_of_the_parentheses import Solution
+from answer.easy.maximum_nesting_depth_of_the_parentheses import Solution
 
 
 class TestSolution(unittest.TestCase):

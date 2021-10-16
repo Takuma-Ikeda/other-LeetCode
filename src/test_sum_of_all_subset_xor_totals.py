@@ -1,5 +1,5 @@
 import unittest
-from answer.sum_of_all_subset_xor_totals import Solution
+from answer.easy.sum_of_all_subset_xor_totals import Solution
 
 
 class TestSolution(unittest.TestCase):

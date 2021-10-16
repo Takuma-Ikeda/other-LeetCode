@@ -1,5 +1,5 @@
 import unittest
-from answer.split_a_string_in_balanced_strings import Solution
+from answer.easy.split_a_string_in_balanced_strings import Solution
 
 
 class TestSolution(unittest.TestCase):

@@ -1,5 +1,5 @@
 import unittest
-from answer.merge_two_binary_trees import Solution, TreeNode
+from answer.easy.merge_two_binary_trees import Solution, TreeNode
 
 
 class TestSolution(unittest.TestCase):

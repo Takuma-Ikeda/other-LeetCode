@@ -1,5 +1,5 @@
 import unittest
-from answer.find_n_unique_integers_sum_up_to_zero import Solution
+from answer.easy.find_n_unique_integers_sum_up_to_zero import Solution
 
 
 class TestSolution(unittest.TestCase):

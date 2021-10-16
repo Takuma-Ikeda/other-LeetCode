@@ -1,5 +1,5 @@
 import unittest
-from answer.count_items_matching_a_rule import Solution
+from answer.easy.count_items_matching_a_rule import Solution
 
 
 class TestSolution(unittest.TestCase):

@@ -1,5 +1,5 @@
 import unittest
-from answer.replace_elements_with_greatest_element_on_right_side import Solution
+from answer.easy.replace_elements_with_greatest_element_on_right_side import Solution
 
 
 class TestSolution(unittest.TestCase):

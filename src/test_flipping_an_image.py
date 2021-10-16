@@ -1,5 +1,5 @@
 import unittest
-from answer.flipping_an_image import Solution
+from answer.easy.flipping_an_image import Solution
 
 
 class TestSolution(unittest.TestCase):

@@ -1,5 +1,5 @@
 import unittest
-from answer.minimum_operations_to_make_the_array_increasing import Solution
+from answer.easy.minimum_operations_to_make_the_array_increasing import Solution
 
 
 class TestSolution(unittest.TestCase):

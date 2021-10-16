@@ -1,5 +1,5 @@
 import unittest
-from answer.increasing_order_search_tree import Solution, TreeNode
+from answer.easy.increasing_order_search_tree import Solution, TreeNode
 
 
 class TestSolution(unittest.TestCase):

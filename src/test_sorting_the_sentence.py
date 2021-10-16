@@ -1,5 +1,5 @@
 import unittest
-from answer.sorting_the_sentence import Solution
+from answer.easy.sorting_the_sentence import Solution
 
 
 class TestSolution(unittest.TestCase):

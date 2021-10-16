@@ -1,5 +1,5 @@
 import unittest
-from answer.robot_return_to_origin import Solution
+from answer.easy.robot_return_to_origin import Solution
 
 
 class TestSolution(unittest.TestCase):

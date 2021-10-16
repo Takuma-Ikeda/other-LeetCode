@@ -1,5 +1,5 @@
 import unittest
-from answer.shuffle_string import Solution
+from answer.easy.shuffle_string import Solution
 
 
 class TestSolution(unittest.TestCase):

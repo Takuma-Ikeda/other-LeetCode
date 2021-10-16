@@ -1,5 +1,5 @@
 import unittest
-from answer.convert_binary_number_in_a_linked_list_to_integer import Solution, ListNode
+from answer.easy.convert_binary_number_in_a_linked_list_to_integer import Solution, ListNode
 
 
 class TestSolution(unittest.TestCase):

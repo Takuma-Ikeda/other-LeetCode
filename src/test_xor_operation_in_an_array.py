@@ -1,5 +1,5 @@
 import unittest
-from answer.xor_operation_in_an_array import Solution
+from answer.easy.xor_operation_in_an_array import Solution
 
 
 class TestSolution(unittest.TestCase):

@@ -1,5 +1,5 @@
 import unittest
-from answer.unique_morse_code_words import Solution
+from answer.easy.unique_morse_code_words import Solution
 
 
 class TestSolution(unittest.TestCase):

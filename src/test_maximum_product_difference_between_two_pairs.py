@@ -1,5 +1,5 @@
 import unittest
-from answer.maximum_product_difference_between_two_pairs import Solution
+from answer.easy.maximum_product_difference_between_two_pairs import Solution
 
 
 class TestSolution(unittest.TestCase):

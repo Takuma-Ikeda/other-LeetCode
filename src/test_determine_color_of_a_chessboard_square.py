@@ -1,5 +1,5 @@
 import unittest
-from answer.determine_color_of_a_chessboard_square import Solution
+from answer.easy.determine_color_of_a_chessboard_square import Solution
 
 
 class TestSolution(unittest.TestCase):

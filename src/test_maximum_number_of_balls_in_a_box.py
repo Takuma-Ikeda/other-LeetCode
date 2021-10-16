@@ -1,5 +1,5 @@
 import unittest
-from answer.maximum_number_of_balls_in_a_box import Solution
+from answer.easy.maximum_number_of_balls_in_a_box import Solution
 
 
 class TestSolution(unittest.TestCase):

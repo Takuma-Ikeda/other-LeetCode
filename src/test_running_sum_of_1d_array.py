@@ -1,5 +1,5 @@
 import unittest
-from answer.running_sum_of_1d_array import Solution
+from answer.easy.running_sum_of_1d_array import Solution
 
 
 class TestSolution(unittest.TestCase):

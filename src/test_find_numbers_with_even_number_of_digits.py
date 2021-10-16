@@ -1,5 +1,5 @@
 import unittest
-from answer.find_numbers_with_even_number_of_digits import Solution
+from answer.easy.find_numbers_with_even_number_of_digits import Solution
 
 
 class TestSolution(unittest.TestCase):

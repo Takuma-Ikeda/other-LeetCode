@@ -1,5 +1,5 @@
 import unittest
-from answer.determine_if_string_halves_are_alike import Solution
+from answer.easy.determine_if_string_halves_are_alike import Solution
 
 
 class TestSolution(unittest.TestCase):

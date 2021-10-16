@@ -1,5 +1,5 @@
 import unittest
-from answer.to_lower_case import Solution
+from answer.easy.to_lower_case import Solution
 
 
 class TestSolution(unittest.TestCase):

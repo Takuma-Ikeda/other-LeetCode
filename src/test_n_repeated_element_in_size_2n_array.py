@@ -1,5 +1,5 @@
 import unittest
-from answer.n_repeated_element_in_size_2n_array import Solution
+from answer.easy.n_repeated_element_in_size_2n_array import Solution
 
 
 class TestSolution(unittest.TestCase):

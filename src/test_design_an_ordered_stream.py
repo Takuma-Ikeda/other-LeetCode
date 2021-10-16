@@ -1,5 +1,5 @@
 import unittest
-from answer.design_an_ordered_stream import OrderedStream
+from answer.easy.design_an_ordered_stream import OrderedStream
 
 
 class TestSolution(unittest.TestCase):

@@ -1,5 +1,5 @@
 import unittest
-from answer.remove_outermost_parentheses import Solution
+from answer.easy.remove_outermost_parentheses import Solution
 
 
 class TestSolution(unittest.TestCase):

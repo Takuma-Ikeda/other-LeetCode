@@ -1,5 +1,5 @@
 import unittest
-from answer.count_good_triplets import Solution
+from answer.easy.count_good_triplets import Solution
 
 
 class TestSolution(unittest.TestCase):

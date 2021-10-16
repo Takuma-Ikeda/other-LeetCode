@@ -1,6 +1,6 @@
 
 import unittest
-from answer.number_of_students_doing_homework_at_a_given_time import Solution
+from answer.easy.number_of_students_doing_homework_at_a_given_time import Solution
 
 
 class TestSolution(unittest.TestCase):

@@ -1,5 +1,5 @@
 import unittest
-from answer.merge_strings_alternately import Solution
+from answer.easy.merge_strings_alternately import Solution
 
 
 class TestSolution(unittest.TestCase):

@@ -1,5 +1,5 @@
 import unittest
-from answer.n_ary_tree_preorder_traversal import Solution, Node
+from answer.easy.n_ary_tree_preorder_traversal import Solution, Node
 
 
 class TestSolution(unittest.TestCase):

@@ -1,5 +1,5 @@
 import unittest
-from answer.generate_a_string_with_characters_that_have_odd_counts import Solution
+from answer.easy.generate_a_string_with_characters_that_have_odd_counts import Solution
 
 
 class TestSolution(unittest.TestCase):

@@ -1,5 +1,5 @@
 import unittest
-from answer.sum_of_unique_elements import Solution
+from answer.easy.sum_of_unique_elements import Solution
 
 
 class TestSolution(unittest.TestCase):

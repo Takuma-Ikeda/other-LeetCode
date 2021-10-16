@@ -1,5 +1,5 @@
 import unittest
-from answer.create_target_array_in_the_given_order import Solution
+from answer.easy.create_target_array_in_the_given_order import Solution
 
 
 class TestSolution(unittest.TestCase):

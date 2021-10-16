@@ -1,5 +1,5 @@
 import unittest
-from answer.maximum_product_of_two_elements_in_an_array import Solution
+from answer.easy.maximum_product_of_two_elements_in_an_array import Solution
 
 
 class TestSolution(unittest.TestCase):

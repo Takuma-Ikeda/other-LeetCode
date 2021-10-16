@@ -1,5 +1,5 @@
 import unittest
-from answer.increasing_decreasing_string import Solution
+from answer.easy.increasing_decreasing_string import Solution
 
 
 class TestSolution(unittest.TestCase):

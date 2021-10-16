@@ -1,5 +1,5 @@
 import unittest
-from answer.minimum_time_to_type_word_using_special_typewriter import Solution
+from answer.easy.minimum_time_to_type_word_using_special_typewriter import Solution
 
 
 class TestSolution(unittest.TestCase):

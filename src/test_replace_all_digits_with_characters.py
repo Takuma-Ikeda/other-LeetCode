@@ -1,5 +1,5 @@
 import unittest
-from answer.replace_all_digits_with_characters import Solution
+from answer.easy.replace_all_digits_with_characters import Solution
 
 
 class TestSolution(unittest.TestCase):

@@ -1,5 +1,5 @@
 import unittest
-from answer.sum_of_digits_in_base_k import Solution
+from answer.easy.sum_of_digits_in_base_k import Solution
 
 
 class TestSolution(unittest.TestCase):

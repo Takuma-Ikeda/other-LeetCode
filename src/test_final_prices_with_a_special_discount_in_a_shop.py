@@ -1,5 +1,5 @@
 import unittest
-from answer.final_prices_with_a_special_discount_in_a_shop import Solution
+from answer.easy.final_prices_with_a_special_discount_in_a_shop import Solution
 
 
 class TestSolution(unittest.TestCase):

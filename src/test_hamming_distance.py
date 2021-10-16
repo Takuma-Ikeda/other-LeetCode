@@ -1,5 +1,5 @@
 import unittest
-from answer.hamming_distance import Solution
+from answer.easy.hamming_distance import Solution
 
 
 class TestSolution(unittest.TestCase):

@@ -1,5 +1,5 @@
 import unittest
-from answer.reverse_prefix_of_word import Solution
+from answer.easy.reverse_prefix_of_word import Solution
 
 
 class TestSolution(unittest.TestCase):
