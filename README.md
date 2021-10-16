@@ -16,9 +16,9 @@
 # Problems
 
 - Easy
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/easy/README.md
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/README.md
 - Medium
-    - Not yet
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/README.md
 
 ## Python 実行環境
 
