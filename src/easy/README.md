@@ -435,9 +435,9 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/test_robot_return_to_origin.py
     - `str.count('A')` などで、含まれている文字の個数をカウントできる
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/test_***.py
+    - [x] https://leetcode.com/problems/di-string-match/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/answer/di_string_match.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/test_di_string_match.py
     - ***
 1.
     - [] https://leetcode.com/problems/***/
