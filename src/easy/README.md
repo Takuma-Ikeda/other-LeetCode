@@ -438,12 +438,12 @@
     - [x] https://leetcode.com/problems/di-string-match/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/answer/di_string_match.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/test_di_string_match.py
-    - ***
+    - pop で要素を取り出す
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/answer/check_if_numbers_are_ascending_in_a_sentence.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/test_check_if_numbers_are_ascending_in_a_sentence.py
+    - `:=` （ウォルラス演算子/セイウチ構文） を使えば、内包表記の中で変数代入が可能になる / `all()` すべての要素が True 判定を返すこと
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/answer/***.py

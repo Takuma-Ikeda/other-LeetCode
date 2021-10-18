@@ -2,7 +2,7 @@
 
 ## ローカル実行環境
 
-- Python v3.7.7
+- Python v3.9.6
 
 ## 参考リンク
 
@@ -28,7 +28,7 @@
 # Mac の場合
 brew install pipenv
 pipenv install
-pipenv --python 3.7.7
+pipenv --python 3.9.6
 ```
 
 ### 起動・終了
