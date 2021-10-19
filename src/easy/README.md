@@ -445,10 +445,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/test_check_if_numbers_are_ascending_in_a_sentence.py
     - `:=` （ウォルラス演算子/セイウチ構文） を使えば、内包表記の中で変数代入が可能になる / `all()` すべての要素が True 判定を返すこと
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/number-of-recent-calls/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/answer/number_of_recent_calls.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/test_number_of_recent_calls.py
+    - deque(): データの追加を先頭・末尾の両方・または好きな方に O(1) のコストで行う
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/answer/***.py
