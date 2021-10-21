@@ -455,10 +455,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/test_check_if_word_equals_summation_of_two_words.py
     - 関数内関数の代わりに lambda 式を定義する
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/search-in-a-binary-search-tree/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/answer/search_in_a_binary_search_tree.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/test_search_in_a_binary_search_tree.py
+    - 関数内関数 / global / nonlocal / Optional
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/answer/***.py
