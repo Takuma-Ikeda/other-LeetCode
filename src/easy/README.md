@@ -450,10 +450,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/test_number_of_recent_calls.py
     - deque(): データの追加を先頭・末尾の両方・または好きな方に O(1) のコストで行う
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/answer/check_if_word_equals_summation_of_two_words.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/test_check_if_word_equals_summation_of_two_words.py
+    - 関数内関数の代わりに lambda 式を定義する
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/answer/***.py
