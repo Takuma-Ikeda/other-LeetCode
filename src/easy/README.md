@@ -460,10 +460,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/test_search_in_a_binary_search_tree.py
     - 関数内関数 / global / nonlocal / Optional
 1.
-    - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/test_***.py
-    - ***
+    - [x] https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/answer/make_two_arrays_equal_by_reversing_sub_arrays.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/test_make_two_arrays_equal_by_reversing_sub_arrays.py
+    - `Counter(List)` すればハッシュマップ構造をいきなり作れる、`==` で比較もできる
 1.
     - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/answer/***.py
