@@ -375,10 +375,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/answer/reverse_string.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/test_reverse_string.py
     - return せずに引数を直接書き換える方法
-1.  - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/test_***.py
-    - ***
+1.  - [] https://leetcode.com/problems/unique-number-of-occurrences/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/answer/unique_number_of_occurrences.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/test_unique_number_of_occurrences.py
+    - `from collections import Counter` でハッシュマップを作成 / set で集合型を作成
 1.  - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/answer/***.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/test_***.py
