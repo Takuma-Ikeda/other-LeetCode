@@ -379,10 +379,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/answer/unique_number_of_occurrences.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/test_unique_number_of_occurrences.py
     - `from collections import Counter` でハッシュマップを作成 / set で集合型を作成
-1.  - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/test_***.py
-    - ***
+1.  - [] https://leetcode.com/problems/maximum-number-of-words-you-can-type/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/answer/maximum_number_of_words_you_can_type.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/test_maximum_number_of_words_you_can_type.py
+    - `set('abc')` で、'a', 'b', 'c' 各文字による集合型を作成可能 / `集合型.intersection()` で重複している要素を取得できる
 1.  - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/answer/***.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/test_***.py
