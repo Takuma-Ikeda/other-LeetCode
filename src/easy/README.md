@@ -387,10 +387,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/answer/maximum_units_on_a_truck.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/test_maximum_units_on_a_truck.py
     - ハッシュマップ
-1.  - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/test_***.py
-    - ***
+1.  - [x] https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/answer/the_k_weakest_rows_in_a_matrix.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/test_the_k_weakest_rows_in_a_matrix.py
+    - `List.count(値)` でその値をもつ要素数を取得 / `indices = [i for i, v in enumerate(List) if v == min(List)]` 最小値をもつインデックス郡を取得
 1.  - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/answer/***.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/test_***.py
