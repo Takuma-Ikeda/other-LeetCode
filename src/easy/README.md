@@ -391,10 +391,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/answer/the_k_weakest_rows_in_a_matrix.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/test_the_k_weakest_rows_in_a_matrix.py
     - `List.count(値)` でその値をもつ要素数を取得 / `indices = [i for i, v in enumerate(List) if v == min(List)]` 最小値をもつインデックス郡を取得
-1.  - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/test_***.py
-    - ***
+1.  - [x] https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/answer/minimum_subsequence_in_non_increasing_order.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/test_minimum_subsequence_in_non_increasing_order.py
+    - 降順ソート
 1.  - [] https://leetcode.com/problems/***/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/answer/***.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/test_***.py
