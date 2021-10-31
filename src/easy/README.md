@@ -395,7 +395,7 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/answer/minimum_subsequence_in_non_increasing_order.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/test_minimum_subsequence_in_non_increasing_order.py
     - 降順ソート
-1.  - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/test_***.py
-    - ***
+1.  - [x] https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/answer/sum_of_root_to_leaf_binary_numbers.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/test_sum_of_root_to_leaf_binary_numbers.py
+    - 再帰呼出で、引数なりスタックなりを使って前回処理内容を引き継ぐ
