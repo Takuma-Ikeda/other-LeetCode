@@ -14,11 +14,11 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/minimum_number_of_operations_to_move_all_balls_to_each_box.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_minimum_number_of_operations_to_move_all_balls_to_each_box.py
     - ハッシュマップ
-1.  - [] https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/
+1.  - [x] https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/queries_on_number_of_points_inside_a_circle.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_queries_on_number_of_points_inside_a_circle.py
-    - complex / sqrt
-1.  - [] https://leetcode.com/problems/***/
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/***.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_***.py
+    - complex / sqrt: 正直よくわかってないのでリトライする
+1.  - [x] https://leetcode.com/problems/deepest-leaves-sum/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/deepest_leaves_sum.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_deepest_leaves_sum.py
     - ***
