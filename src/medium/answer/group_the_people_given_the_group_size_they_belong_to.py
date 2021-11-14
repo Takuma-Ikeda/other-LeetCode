@@ -28,3 +28,25 @@ class Solution:
                 result.append(group)
 
         return result
+
+# 模範解答
+# https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/discuss/448447/Python-Simple.-Hashmap.-With-comments-(beats-99)
+
+
+'''
+class Solution:
+    def groupThePeople(self, groupSizes: List[int]) -> List[List[int]]:
+        _dict_ = collections.defaultdict(list)
+
+        for idx, i in enumerate(groupSizes):
+            _dict_[i].append(idx)
+
+        answer = []
+
+        for key, lst in _dict_.items():
+            # key の値だけスキップされるので、適切な開始・終了位置で List をスライス分割できる
+            for idx in range(0, len(lst), key):
+                answer.append(lst[idx:idx + key])
+
+        return (answer)
+'''

@@ -26,10 +26,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/group_the_people_given_the_group_size_they_belong_to.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_group_the_people_given_the_group_size_they_belong_to.py
     - ハッシュマップ / pop / `for idx in range(0, len(lst), key): answer.append(lst[idx:idx + key])` range のスキップ機能を使ったスライス
-1.  - [] xxx
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/xxx.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_xxx.py
-    - xxx
+1.  - [x] https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/find_a_corresponding_node_of_a_binary_tree_in_a_clone_of_that_tree.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_find_a_corresponding_node_of_a_binary_tree_in_a_clone_of_that_tree.py
+    - Tree からある一つの Node を見つけだしたらすぐ処理を中断して参照を返したいとき: return しながら再帰処理する `return traverse(o.left, c.left) or traverse(o.right, c.right)`
 1.  - [] xxx
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/xxx.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_xxx.py
