@@ -30,10 +30,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/find_a_corresponding_node_of_a_binary_tree_in_a_clone_of_that_tree.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_find_a_corresponding_node_of_a_binary_tree_in_a_clone_of_that_tree.py
     - Tree からある一つの Node を見つけだしたらすぐ処理を中断して参照を返したいとき: return しながら再帰処理する `return traverse(o.left, c.left) or traverse(o.right, c.right)`
-1.  - [] xxx
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/xxx.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_xxx.py
-    - xxx
+1.  - [x] https://leetcode.com/problems/max-increase-to-keep-city-skyline/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/max_increase_to_keep_city_skyline.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_max_increase_to_keep_city_skyline.py
+    - range の代わりに `for i, j in product(range(5), range(5))` をすることもできる / `*変数` すると外側の `[]` を取り除くことができる (アンパック)
 1.  - [] xxx
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/xxx.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_xxx.py
