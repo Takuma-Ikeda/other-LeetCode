@@ -34,10 +34,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/max_increase_to_keep_city_skyline.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_max_increase_to_keep_city_skyline.py
     - range の代わりに `for i, j in product(range(5), range(5))` をすることもできる / `*変数` すると外側の `[]` を取り除くことができる (アンパック)
-1.  - [] xxx
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/xxx.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_xxx.py
-    - xxx
+1.  - [x] https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/sum_of_nodes_with_even_valued_grandparent.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_sum_of_nodes_with_even_valued_grandparent.py
+    - stack (DFS/BFS) / 再帰関数に「階層」「親の情報」「祖父母の情報」を渡す
 1.  - [] xxx
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/xxx.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_xxx.py
