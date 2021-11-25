@@ -38,10 +38,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/sum_of_nodes_with_even_valued_grandparent.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_sum_of_nodes_with_even_valued_grandparent.py
     - stack (DFS/BFS) / 再帰関数に「階層」「親の情報」「祖父母の情報」を渡す
-1.  - [] xxx
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/xxx.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_xxx.py
-    - xxx
+1.  - [x] https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/widest_vertical_area_between_two_points_containing_no_points.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_widest_vertical_area_between_two_points_containing_no_points.py
+    - ソート結果を list で保存する `arr = sorted(x for x, y in points)`
 1.  - [] xxx
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/xxx.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_xxx.py
