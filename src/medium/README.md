@@ -42,10 +42,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/widest_vertical_area_between_two_points_containing_no_points.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_widest_vertical_area_between_two_points_containing_no_points.py
     - ソート結果を list で保存する `arr = sorted(x for x, y in points)`
-1.  - [] xxx
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/xxx.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_xxx.py
-    - xxx
+1.  - [x] https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/binary_search_tree_to_greater_sum_tree.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_binary_search_tree_to_greater_sum_tree.py
+    - ノードの val を足し算していく。関数内関数の引数に演算結果を渡していく、もしくは、メンバ変数に演算結果を保持していく
 1.  - [] xxx
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/xxx.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_xxx.py
