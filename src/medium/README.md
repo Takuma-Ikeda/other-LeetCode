@@ -46,10 +46,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/binary_search_tree_to_greater_sum_tree.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_binary_search_tree_to_greater_sum_tree.py
     - ノードの val を足し算していく。関数内関数の引数に演算結果を渡していく、もしくは、メンバ変数に演算結果を保持していく
-1.  - [] xxx
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/xxx.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_xxx.py
-    - xxx
+1.  - [x] https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/maximum_twin_sum_of_a_linked_list.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_maximum_twin_sum_of_a_linked_list.py
+    - ランナーテクニック
 1.  - [] xxx
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/xxx.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_xxx.py
