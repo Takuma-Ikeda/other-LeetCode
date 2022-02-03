@@ -50,10 +50,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/maximum_twin_sum_of_a_linked_list.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_maximum_twin_sum_of_a_linked_list.py
     - ランナーテクニック
-1.  - [] xxx
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/xxx.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_xxx.py
-    - xxx
+1.  - [] https://leetcode.com/problems/encode-and-decode-tinyurl/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/encode_and_decode_tinyurl.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_encode_and_decode_tinyurl.py
+    - 辞書型でエンコード・デコードの値を管理しておく
 1.  - [] xxx
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/xxx.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_xxx.py
