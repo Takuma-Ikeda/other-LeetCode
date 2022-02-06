@@ -58,10 +58,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/number_of_laser_beams_in_a_bank.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_number_of_laser_beams_in_a_bank.py
     - for ... in を使った演算
-1.  - [] xxx
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/xxx.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_xxx.py
-    - xxx
+1.  - [x] https://leetcode.com/problems/maximum-binary-tree/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/maximum_binary_tree.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_maximum_binary_tree.py
+    - 作成した Node を List で管理していき、List の 2 要素目が存在してからは 1 番目の要素の左か右に追加していく
 1.  - [] xxx
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/xxx.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_xxx.py
