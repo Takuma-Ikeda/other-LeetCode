@@ -51,6 +51,7 @@ class Solution:
         for num in nums:
             node = TreeNode(num)
 
+            # nodes 末尾の要素の値より大きい場合
             while nodes and nodes[-1].val < num:
                 node.left = nodes.pop()
 
