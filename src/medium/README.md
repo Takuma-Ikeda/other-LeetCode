@@ -66,10 +66,10 @@
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/merge_nodes_in_between_zeros.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_merge_nodes_in_between_zeros.py
     - ListNode の足し算
-1.  - [] xxx
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/xxx.py
-    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_xxx.py
-    - xxx
+1.  - [x] https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/execution_of_all_suffix_instructions_staying_in_a_grid.py
+    - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_execution_of_all_suffix_instructions_staying_in_a_grid.py
+    - 複素数 (数値の末尾に j を付けると「虚数」として扱うことができる) / 実部を取得 real 属性 / 虚部を取得 imag 属性
 1.  - [] xxx
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/answer/xxx.py
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/medium/test_xxx.py
