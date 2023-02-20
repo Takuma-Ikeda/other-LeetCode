@@ -2,6 +2,12 @@
 
 ## Problems List
 
+### NeetCode
+
+- https://neetcode.io/courses/dsa-for-beginners/0
+
+### Difficulty
+
 - Easy
     - https://github.com/Takuma-Ikeda/other-LeetCode/blob/master/src/easy/README.md
 - Medium
