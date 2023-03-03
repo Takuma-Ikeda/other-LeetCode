@@ -1,0 +1,10 @@
+version: "3"
+
+services:
+  rust:
+    image: rust:1.67
+    volumes:
+      - ./src/neetcode:/neetcode
+    working_dir: /neetcode
+    environment:
+      - USER=user
