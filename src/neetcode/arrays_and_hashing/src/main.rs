@@ -1,3 +1,8 @@
+mod answers;
+mod explanations;
+
 fn main() {
-    println!("Hello, world!");
+    // 1. contains_duplicate
+    answers::contains_duplicate::execute();
+    explanations::contains_duplicate::execute();
 }
