@@ -7,6 +7,7 @@ impl Solution {
         let mut map = HashSet::new();
 
         for &n in nums.iter() {
+            // キーの存在チェック
             if map.contains(&n){
                 return true;
             }
