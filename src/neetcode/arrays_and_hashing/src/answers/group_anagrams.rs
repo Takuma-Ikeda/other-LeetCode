@@ -1,5 +1,7 @@
 struct Solution;
 
+use std::collections::HashSet;
+
 impl Solution {
     // 遅くて LeetCode ではタイムアップしてしまう
     pub fn group_anagrams(strs: Vec<String>) -> Vec<Vec<String>> {
@@ -47,7 +49,6 @@ impl Solution {
     }
 }
 
-
 struct Case {
     expected: Vec<Vec<String>>,
     strs: Vec<String>,
@@ -68,24 +69,20 @@ impl TestCase {
                             String::from("tea"),
                             String::from("ate"),
                         ],
-                        vec![
-                            String::from("tan"),
-                            String::from("nat"),
-                        ],
+                        vec![String::from("tan"), String::from("nat")],
                         vec![String::from("bat")],
                     ],
-                    strs: vec!["eat","tea","tan","ate","nat","bat"].iter().map(|s| s.to_string()).collect(),
+                    strs: vec!["eat", "tea", "tan", "ate", "nat", "bat"]
+                        .iter()
+                        .map(|s| s.to_string())
+                        .collect(),
                 },
                 Case {
-                    expected: vec![
-                        vec![String::from("")],
-                    ],
+                    expected: vec![vec![String::from("")]],
                     strs: vec![String::from("")],
                 },
                 Case {
-                    expected: vec![
-                        vec![String::from("a")],
-                    ],
+                    expected: vec![vec![String::from("a")]],
                     strs: vec![String::from("a")],
                 },
             ],
@@ -105,6 +102,9 @@ fn test() {
 fn execute() {
     let test_cases = TestCase::new();
     for case in test_cases.data.into_iter() {
-        assert_eq!(case.expected, Solution::group_anagrams(case.strs));
+        // 要素は順不同なので HashSet にして比較する
+        let set1: HashSet<_> = Solution::group_anagrams(case.strs).into_iter().collect();
+        let set2: HashSet<_> = case.expected.into_iter().collect();
+        assert_eq!(set1, set2);
     }
 }

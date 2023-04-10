@@ -14,4 +14,7 @@ fn main() {
     // 4. group_anagrams
     answers::group_anagrams::run();
     explanations::group_anagrams::run();
+    // 5. top_k_frequent_elements
+    answers::top_k_frequent_elements::run();
+    explanations::top_k_frequent_elements::run();
 }

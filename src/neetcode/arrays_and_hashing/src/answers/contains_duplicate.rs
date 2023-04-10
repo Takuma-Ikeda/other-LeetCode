@@ -34,15 +34,15 @@ impl TestCase {
             data: vec![
                 Case {
                     expected: true,
-                    nums: vec![1,2,3,1],
+                    nums: vec![1, 2, 3, 1],
                 },
                 Case {
                     expected: false,
-                    nums: vec![1,2,3,4],
+                    nums: vec![1, 2, 3, 4],
                 },
                 Case {
                     expected: true,
-                    nums: vec![1,1,1,3,3,4,3,2,4,2],
+                    nums: vec![1, 1, 1, 3, 3, 4, 3, 2, 4, 2],
                 },
             ],
         }

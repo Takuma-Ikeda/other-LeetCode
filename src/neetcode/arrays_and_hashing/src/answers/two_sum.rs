@@ -22,7 +22,7 @@ impl Solution {
                 }
                 result.push(index1 as i32);
                 result.push(index2 as i32);
-                break
+                break;
             }
         }
         result
@@ -45,17 +45,17 @@ impl TestCase {
             data: vec![
                 Case {
                     expected: vec![0, 1],
-                    nums: vec![2,7,11,15],
+                    nums: vec![2, 7, 11, 15],
                     target: 9,
                 },
                 Case {
                     expected: vec![1, 2],
-                    nums: vec![3,2,4],
+                    nums: vec![3, 2, 4],
                     target: 6,
                 },
                 Case {
                     expected: vec![0, 1],
-                    nums: vec![3,3],
+                    nums: vec![3, 3],
                     target: 6,
                 },
             ],

@@ -8,11 +8,11 @@ impl Solution {
 
         for &n in nums.iter() {
             // キーの存在チェック
-            if map.contains(&n){
+            if map.contains(&n) {
                 return true;
             }
             map.insert(n);
-        };
+        }
         false
     }
 }
@@ -32,15 +32,15 @@ impl TestCase {
             data: vec![
                 Case {
                     expected: true,
-                    nums: vec![1,2,3,1],
+                    nums: vec![1, 2, 3, 1],
                 },
                 Case {
                     expected: false,
-                    nums: vec![1,2,3,4],
+                    nums: vec![1, 2, 3, 4],
                 },
                 Case {
                     expected: true,
-                    nums: vec![1,1,1,3,3,4,3,2,4,2],
+                    nums: vec![1, 1, 1, 3, 3, 4, 3, 2, 4, 2],
                 },
             ],
         }

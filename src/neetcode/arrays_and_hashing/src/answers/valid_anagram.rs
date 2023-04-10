@@ -62,8 +62,8 @@ impl TestCase {
                     expected: false,
                     s: String::from("rat"),
                     t: String::from("car"),
-                }
-            ]
+                },
+            ],
         }
     }
 }

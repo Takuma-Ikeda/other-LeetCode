@@ -1,6 +1,7 @@
 struct Solution;
 
 use std::collections::HashMap;
+use std::collections::HashSet;
 
 impl Solution {
     pub fn group_anagrams(strs: Vec<String>) -> Vec<Vec<String>> {
@@ -12,10 +13,10 @@ impl Solution {
         let mut map: HashMap<[u8; 26], Vec<String>> = HashMap::new();
 
         for s in strs {
-            // 長さ 26 の配列を定義、すべての要素を u8 型の 0 で初期化
+            // 長さ 26 の配列を定義、すべての要素を u8 型の 0 で初期化。要素数は変動しないので Vector ではなく array で OK
             let mut key = [0_u8; 26];
 
-            for c in s.chars(){
+            for c in s.chars() {
                 // ASCII value "a" は 80 の数値なので、それを引いてあげると 0, 1, 2 ... とキリのいい数値になる
                 key[c as usize - 'a' as usize] += 1;
             }
@@ -54,23 +55,19 @@ impl TestCase {
                             String::from("tea"),
                             String::from("ate"),
                         ],
-                        vec![
-                            String::from("tan"),
-                            String::from("nat"),
-                        ],
+                        vec![String::from("tan"), String::from("nat")],
                     ],
-                    strs: vec!["eat","tea","tan","ate","nat","bat"].iter().map(|s| s.to_string()).collect(),
+                    strs: vec!["eat", "tea", "tan", "ate", "nat", "bat"]
+                        .iter()
+                        .map(|s| s.to_string())
+                        .collect(),
                 },
                 Case {
-                    expected: vec![
-                        vec![String::from("")],
-                    ],
+                    expected: vec![vec![String::from("")]],
                     strs: vec![String::from("")],
                 },
                 Case {
-                    expected: vec![
-                        vec![String::from("a")],
-                    ],
+                    expected: vec![vec![String::from("a")]],
                     strs: vec![String::from("a")],
                 },
             ],
@@ -90,6 +87,9 @@ fn test() {
 fn execute() {
     let test_cases = TestCase::new();
     for case in test_cases.data.into_iter() {
-        assert_eq!(case.expected, Solution::group_anagrams(case.strs));
+        // 要素は順不同なので HashSet にして比較する
+        let set1: HashSet<_> = Solution::group_anagrams(case.strs).into_iter().collect();
+        let set2: HashSet<_> = case.expected.into_iter().collect();
+        assert_eq!(set1, set2);
     }
 }

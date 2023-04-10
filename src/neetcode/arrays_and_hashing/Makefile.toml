@@ -1,6 +1,6 @@
 [tasks.watch]
 run_task = [
-    { name = ["clippy", "test"] }
+    { name = ["fmt", "clippy", "test"] }
 ]
 watch = true
 
@@ -11,3 +11,7 @@ args = ["clippy"]
 [tasks.test]
 command = "cargo"
 args = ["test"]
+
+[tasks.fmt]
+command = "cargo"
+args = ["fmt"]

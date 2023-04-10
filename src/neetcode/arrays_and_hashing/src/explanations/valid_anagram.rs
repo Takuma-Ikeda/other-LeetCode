@@ -13,7 +13,7 @@ impl Solution {
         let mut map: HashMap<char, i64> = HashMap::new();
 
         // zip 関数で複数配列の要素を for 内で同時に扱える
-        for (a, b) in s.chars().zip(t.chars()){
+        for (a, b) in s.chars().zip(t.chars()) {
             *map.entry(a).or_default() += 1;
             *map.entry(b).or_default() -= 1;
         }
@@ -47,8 +47,8 @@ impl TestCase {
                     expected: false,
                     s: String::from("rat"),
                     t: String::from("car"),
-                }
-            ]
+                },
+            ],
         }
     }
 }
